@@ -102,7 +102,11 @@ MonoBehaviour:
   m_MinSize: {x: 911, y: 442}
   m_MaxSize: {x: 22006, y: 10021}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 65
+=======
+  controlID: 85
+>>>>>>> Stashed changes
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -148,7 +152,11 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
+<<<<<<< Updated upstream
   controlID: 40
+=======
+  controlID: 42
+>>>>>>> Stashed changes
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
