@@ -1,125 +1,907 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home; OS build 19043.1526; Version 2009; 64bit' Language: 'ko' Physical Memory: 16305 MB
+<<<<<<< Updated upstream
+OS: 'Windows 10 Home; OS build 19042.1526; Version 2009; 64bit' Language: 'ko' Physical Memory: 16228 MB
+=======
+OS: 'Windows 10 Pro; OS build 19042.1052; Version 2009; 64bit' Language: 'ko' Physical Memory: 16301 MB
+>>>>>>> Stashed changes
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity2019\2020.3.4f1\Editor\Unity.exe
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-D:/Graduation/NightPlanet3D-unity/NightPlanet3D-unity
+<<<<<<< Updated upstream
+C:/Users/민경운/Documents/GitHub/FadeOut/NightPlanet3D-unity/NightPlanet3D-unity
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-62471
-Successfully changed project path to: D:/Graduation/NightPlanet3D-unity/NightPlanet3D-unity
-D:/Graduation/NightPlanet3D-unity/NightPlanet3D-unity
+53784
+Successfully changed project path to: C:/Users/민경운/Documents/GitHub/FadeOut/NightPlanet3D-unity/NightPlanet3D-unity
+C:/Users/민경운/Documents/GitHub/FadeOut/NightPlanet3D-unity/NightPlanet3D-unity
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 159.57 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 136.28 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.4f1 (0abb6314276a)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity2019/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/Graduation/NightPlanet3D-unity/NightPlanet3D-unity/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/민경운/Documents/GitHub/FadeOut/NightPlanet3D-unity/NightPlanet3D-unity/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1060 3GB (ID=0x1c02)
+    Renderer: NVIDIA GeForce GTX 1650 with Max-Q Design (ID=0x1f91)
     Vendor:   
-    VRAM:     2988 MB
-    Driver:   27.21.14.5671
+    VRAM:     3962 MB
+    Driver:   30.0.14.7111
+=======
+C:/Users/Junsun/Documents/GitHub/NightPlanet3D-unity/NightPlanet3D-unity
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60558
+Successfully changed project path to: C:/Users/Junsun/Documents/GitHub/NightPlanet3D-unity/NightPlanet3D-unity
+C:/Users/Junsun/Documents/GitHub/NightPlanet3D-unity/NightPlanet3D-unity
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 17.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Junsun/Documents/GitHub/NightPlanet3D-unity/NightPlanet3D-unity/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   27.21.14.5730
+>>>>>>> Stashed changes
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity2019/2020.3.4f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity2019/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/Unity2019/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56376
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+<<<<<<< Updated upstream
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56544
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity2019/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.128709 seconds.
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001913 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 162.94 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 152.58 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  4.304 seconds
+- Completed reload, in  1.080 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.046629 seconds.
+Registered in 0.002053 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file data-000001FCF3C48010 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCF3F741B0 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCF8263DF0 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCF4018830 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCF8BA4050 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCF9A8A430 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCF44EE010 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCF9A8A430 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCF4513E20 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCF3CC4010 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCF3C18080 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCF8502020 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.56 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 1.50 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.860 seconds
+- Completed reload, in  0.728 seconds
+=======
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56976
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002689 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 17.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.879 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000798 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000001CD77DA5840 doesn't match image C:\Users\Junsun\Documents\GitHub\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001CD78385010 doesn't match image C:\Users\Junsun\Documents\GitHub\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001CD7C9C09A0 doesn't match image C:\Users\Junsun\Documents\GitHub\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001CD7BEB7090 doesn't match image C:\Users\Junsun\Documents\GitHub\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001CD7C1BE020 doesn't match image C:\Users\Junsun\Documents\GitHub\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001CD7D6B3A20 doesn't match image C:\Users\Junsun\Documents\GitHub\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001CD7D9D4020 doesn't match image C:\Users\Junsun\Documents\GitHub\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001CD7BEB7090 doesn't match image C:\Users\Junsun\Documents\GitHub\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001CD7D402440 doesn't match image C:\Users\Junsun\Documents\GitHub\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001CD7C9C09A0 doesn't match image C:\Users\Junsun\Documents\GitHub\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001CD7C9C09A0 doesn't match image C:\Users\Junsun\Documents\GitHub\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001CD7C212020 doesn't match image C:\Users\Junsun\Documents\GitHub\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.568 seconds
+>>>>>>> Stashed changes
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
-Refreshing native plugins compatible for Editor in 2.57 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+<<<<<<< Updated upstream
+Refreshing native plugins compatible for Editor in 1.56 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1121 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 72.3 MB.
-System memory in use after: 72.3 MB.
+Unloading 1174 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.5 MB.
+System memory in use after: 71.5 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1564.
-Total: 1.988000 ms (FindLiveObjects: 0.236000 ms CreateObjectMapping: 0.081700 ms MarkObjects: 1.547400 ms  DeleteObjects: 0.121800 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/01.Scenes/석진.unity
-  artifactKey: Guid(2af60e9e2ec4da2408cdc6872b247842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/01.Scenes/석진.unity using Guid(2af60e9e2ec4da2408cdc6872b247842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '968c40cc4cdd4ece9e698fa260136e31') in 0.015773 seconds
-  Import took 0.019166 seconds .
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1617.
+Total: 1.802200 ms (FindLiveObjects: 0.142900 ms CreateObjectMapping: 0.041900 ms MarkObjects: 1.518700 ms  DeleteObjects: 0.097000 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 26.175856 seconds.
-  path: Assets/01.Scenes/김정현.unity
-  artifactKey: Guid(ef74938270dc13d469efdd556322878c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/01.Scenes/김정현.unity using Guid(ef74938270dc13d469efdd556322878c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db3f8a6371af6d91dc67f455301df98e') in 0.007308 seconds
-  Import took 0.010252 seconds .
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/SM_Chr_Biker_Male_01.prefab
+  artifactKey: Guid(af169be12f376ce46a3e6b4bee8b8ffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/SM_Chr_Biker_Male_01.prefab using Guid(af169be12f376ce46a3e6b4bee8b8ffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33cd327f4cf1fb2eea49d842ea06f381') in 0.241638 seconds
+  Import took 0.247911 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 9.328730 seconds.
-  path: Assets/01.Scenes/조석진.unity
-  artifactKey: Guid(2af60e9e2ec4da2408cdc6872b247842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/01.Scenes/조석진.unity using Guid(2af60e9e2ec4da2408cdc6872b247842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd14a7aa21f7e74f3a6ebe296a7d80efd') in 0.008088 seconds
-  Import took 0.011422 seconds .
+  Time since last request: 0.000386 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/SM_Chr_Business_Male_01.prefab
+  artifactKey: Guid(e8efe5fb8015b9f4e985cffca51976f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/SM_Chr_Business_Male_01.prefab using Guid(e8efe5fb8015b9f4e985cffca51976f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9854bc68de29b0dcd5b8212c9ecf728') in 0.082885 seconds
+  Import took 0.088845 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.271483 seconds.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/SM_Chr_Cool_Female_01.prefab
+  artifactKey: Guid(5ca4581ce598741409bac0c6f1bcf24c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/SM_Chr_Cool_Female_01.prefab using Guid(5ca4581ce598741409bac0c6f1bcf24c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66773153b8ef224320ed31f30c5a0eea') in 0.055692 seconds
+  Import took 0.061259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.583536 seconds.
+  path: Assets/Resources/Prefabs/Player.prefab
+  artifactKey: Guid(33a410ccd3723f648bd12d4ada2fe198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Prefabs/Player.prefab using Guid(33a410ccd3723f648bd12d4ada2fe198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '427af899808565d3b93d2c56541f9af8') in 0.011196 seconds
+  Import took 0.013919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000783 seconds.
+  path: Assets/Resources/Prefabs/Player.prefab
+  artifactKey: Guid(33a410ccd3723f648bd12d4ada2fe198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Prefabs/Player.prefab using Guid(33a410ccd3723f648bd12d4ada2fe198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '427af899808565d3b93d2c56541f9af8') in 0.006870 seconds
+  Import took 0.009474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.511591 seconds.
+  path: Assets/Resources/Prefabs/Player.prefab
+  artifactKey: Guid(33a410ccd3723f648bd12d4ada2fe198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Prefabs/Player.prefab using Guid(33a410ccd3723f648bd12d4ada2fe198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eab3a0b1e8902de68329643747daa95') in 0.057209 seconds
+  Import took 0.063260 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002071 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000001FCF3CC8020 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCF8DD7020 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FD1BB1B670 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCF8DD7020 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCF3FD5E30 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCF8DD7020 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCFA790090 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCF8DD7020 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCF4267590 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FD1BB1B670 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCF8A34A20 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCF886B040 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.686 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1163 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.6 MB.
+System memory in use after: 87.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1629.
+Total: 2.428700 ms (FindLiveObjects: 0.190700 ms CreateObjectMapping: 0.050700 ms MarkObjects: 2.121300 ms  DeleteObjects: 0.065100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.075805 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/Chr_Attach/SM_Chr_Attach_Armour_Knee_Metal_L_01.prefab
+  artifactKey: Guid(8932795ce9ec8384590fd132f3bf331c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/Chr_Attach/SM_Chr_Attach_Armour_Knee_Metal_L_01.prefab using Guid(8932795ce9ec8384590fd132f3bf331c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15b9ba0e67af889ab58e9e9a5284344b') in 0.077981 seconds
+  Import took 0.089673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.691720 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/Chr_Attach/SM_Chr_Attach_Armour_Knee_Metal_R_01.prefab
+  artifactKey: Guid(09098669b8359654fb104508fd7fc9b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/Chr_Attach/SM_Chr_Attach_Armour_Knee_Metal_R_01.prefab using Guid(09098669b8359654fb104508fd7fc9b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94b66a6f14666f2ec6139bc392aa0237') in 0.043831 seconds
+  Import took 0.049075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.699969 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/Chr_Attach/SM_Chr_Attach_Armour_Knee_Sports_L_01.prefab
+  artifactKey: Guid(6f9d0770a1ad4b448850c6a1eb3d3b48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/Chr_Attach/SM_Chr_Attach_Armour_Knee_Sports_L_01.prefab using Guid(6f9d0770a1ad4b448850c6a1eb3d3b48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd33e350d97cb85e6435708b1c9da84e') in 0.043142 seconds
+  Import took 0.064601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.554313 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/Chr_Attach/SM_Chr_Attach_Armour_Shoulder_Metal_L_01.prefab
+  artifactKey: Guid(9f69ae082bc8b8e4aa6b0d058f079d4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/Chr_Attach/SM_Chr_Attach_Armour_Shoulder_Metal_L_01.prefab using Guid(9f69ae082bc8b8e4aa6b0d058f079d4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf5e34221d7bcb5b84d0dbc44fcf2dcf') in 0.044540 seconds
+  Import took 0.049541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.606799 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/Chr_Attach/SM_Chr_Attach_Armour_Shoulder_Metal_R_02.prefab
+  artifactKey: Guid(e648f6c33a18ba34e848e109fb2bcf5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/Chr_Attach/SM_Chr_Attach_Armour_Shoulder_Metal_R_02.prefab using Guid(e648f6c33a18ba34e848e109fb2bcf5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2ce6c99550318c342ebe094504e8fbc') in 0.043138 seconds
+  Import took 0.048526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.604254 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/DeadBodies
+  artifactKey: Guid(9e5fe7cd3b70e1d4cb10824ea7c62aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/DeadBodies using Guid(9e5fe7cd3b70e1d4cb10824ea7c62aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b16ab6648fab416beed2f9e3805d4c65') in 0.004707 seconds
+  Import took 0.009452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/DeadBodies
+  artifactKey: Guid(9e5fe7cd3b70e1d4cb10824ea7c62aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/DeadBodies using Guid(9e5fe7cd3b70e1d4cb10824ea7c62aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b16ab6648fab416beed2f9e3805d4c65') in 0.001933 seconds
+  Import took 0.004528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.756802 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/DeadBodies/SM_DeadBody_Female_01.prefab
+  artifactKey: Guid(fae1b3171e2596145881c199a622acdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/DeadBodies/SM_DeadBody_Female_01.prefab using Guid(fae1b3171e2596145881c199a622acdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb5bf83e82a36b929f8097250f42fba2') in 0.161861 seconds
+  Import took 0.165869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002129 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/DeadBodies/SM_DeadBody_Female_01.prefab
+  artifactKey: Guid(fae1b3171e2596145881c199a622acdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/DeadBodies/SM_DeadBody_Female_01.prefab using Guid(fae1b3171e2596145881c199a622acdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb5bf83e82a36b929f8097250f42fba2') in 0.048303 seconds
+  Import took 0.052648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.450331 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_BackgroundCard_01.prefab
+  artifactKey: Guid(cb6fffda3cc588a4a83419c6e2160bbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_BackgroundCard_01.prefab using Guid(cb6fffda3cc588a4a83419c6e2160bbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3f5110481667d20731ac9f2a64123ba') in 0.034943 seconds
+  Import took 0.039444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.388245 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_BackgroundCard_02.prefab
+  artifactKey: Guid(edf88c54e7daa8a439be3d69bb238252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_BackgroundCard_02.prefab using Guid(edf88c54e7daa8a439be3d69bb238252) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dddd7ed2afe4cedd8e7dc7599e26b25a') in 0.011515 seconds
+  Import took 0.014368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.195979 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_BackgroundCard_03.prefab
+  artifactKey: Guid(e34e50d8b913e634c9f44fa6c65df173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_BackgroundCard_03.prefab using Guid(e34e50d8b913e634c9f44fa6c65df173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6abb7e5cbb4cfbe21f1fa901fa58f0f5') in 0.011410 seconds
+  Import took 0.014374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.180800 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_BasketBall_Court_01.prefab
+  artifactKey: Guid(f40662f6df33ec04ab7e9b10be75c6c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_BasketBall_Court_01.prefab using Guid(f40662f6df33ec04ab7e9b10be75c6c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '375a2a738c192f36704b64c8e956e1c9') in 0.260653 seconds
+  Import took 0.265989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007843 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Beach_01.prefab
+  artifactKey: Guid(bc044e70c5493ef459d3d21f4effde30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Beach_01.prefab using Guid(bc044e70c5493ef459d3d21f4effde30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5a745ee678456276ad336f85c47bc29') in 0.047935 seconds
+  Import took 0.053382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000716 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Beach_01.prefab
+  artifactKey: Guid(bc044e70c5493ef459d3d21f4effde30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Beach_01.prefab using Guid(bc044e70c5493ef459d3d21f4effde30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5a745ee678456276ad336f85c47bc29') in 0.041137 seconds
+  Import took 0.046691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025035 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Beach_Staight_01.prefab
+  artifactKey: Guid(53ea6f915ccda9b449231be3e4556036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Beach_Staight_01.prefab using Guid(53ea6f915ccda9b449231be3e4556036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08dbdb456ab8b446f6df0651ea5ebc6d') in 0.044699 seconds
+  Import took 0.050030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.126989 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Beach_Staight_02.prefab
+  artifactKey: Guid(3811d268d53865d40a29e0b863bfe13c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Beach_Staight_02.prefab using Guid(3811d268d53865d40a29e0b863bfe13c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0e86a49d6ca1e8b853cee9160917b6a') in 0.041807 seconds
+  Import took 0.047366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.154504 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Bridge_01.prefab
+  artifactKey: Guid(842787541179ab94f9f5f199b2667e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Bridge_01.prefab using Guid(842787541179ab94f9f5f199b2667e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7a9c3154e1a8101f2fa4a67ee4268bb') in 0.075772 seconds
+  Import took 0.082284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.112151 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Bridge_Clean_01.prefab
+  artifactKey: Guid(85184f8950a9626468b905e1393e0a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Bridge_Clean_01.prefab using Guid(85184f8950a9626468b905e1393e0a14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adf221316b7ccda8bd23654a6d024ddb') in 0.052220 seconds
+  Import took 0.057565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.140841 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Bridge_Clean_02.prefab
+  artifactKey: Guid(33cc2b7f366657f4792bc352872a687a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Bridge_Clean_02.prefab using Guid(33cc2b7f366657f4792bc352872a687a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97793adec4eb8b4e25b3c5adc58d04e8') in 0.049718 seconds
+  Import took 0.054404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.140068 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Bridge_Clean_03.prefab
+  artifactKey: Guid(5663d6633b7a0e34cb04f340fbd3c49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Bridge_Clean_03.prefab using Guid(5663d6633b7a0e34cb04f340fbd3c49c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e393430f943b082310e32564d0f9b23') in 0.042877 seconds
+  Import took 0.048275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.155225 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Bunker_Entrance_01.prefab
+  artifactKey: Guid(f540e57fd9fcf454da50dcd2b8e5e613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Bunker_Entrance_01.prefab using Guid(f540e57fd9fcf454da50dcd2b8e5e613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55f7b63008be4e6455a1476216e59392') in 0.043547 seconds
+  Import took 0.048781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.160764 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Bunker_Entrance_Round_01.prefab
+  artifactKey: Guid(8e636231f29589d448477287fd479953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Bunker_Entrance_Round_01.prefab using Guid(8e636231f29589d448477287fd479953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb8aa7177bd02cd1f29bd354c6361117') in 0.042002 seconds
+  Import took 0.046839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.148221 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Bushes_01.prefab
+  artifactKey: Guid(aa979cecccf85264fa104b2ccd479ab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Bushes_01.prefab using Guid(aa979cecccf85264fa104b2ccd479ab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a094b794e0544383ccb24f0639e929e') in 0.037777 seconds
+  Import took 0.042778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.160623 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Bushes_02.prefab
+  artifactKey: Guid(53cc0a19e09835f4fb0adef80edc5bc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Bushes_02.prefab using Guid(53cc0a19e09835f4fb0adef80edc5bc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7a9d9402da08a750cdb4f0762d325b6') in 0.037396 seconds
+  Import took 0.042169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.175674 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Bushes_03.prefab
+  artifactKey: Guid(22d1bb3c605f0a047a3df61400d33cd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Bushes_03.prefab using Guid(22d1bb3c605f0a047a3df61400d33cd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '974567126a2787a2b803e87c28835572') in 0.036590 seconds
+  Import took 0.043316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.169884 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Bushes_04.prefab
+  artifactKey: Guid(5bdebad866447df48805ee507df9bead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Bushes_04.prefab using Guid(5bdebad866447df48805ee507df9bead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44d6419aec811efa2594a15e51483647') in 0.037708 seconds
+  Import took 0.043574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.171513 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Dirt_Flat_01.prefab
+  artifactKey: Guid(d7ef0a4417e3c154bb14482f7b5e018b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Dirt_Flat_01.prefab using Guid(d7ef0a4417e3c154bb14482f7b5e018b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d04e2f5bab7fa5764339523c6eb5509') in 0.035241 seconds
+  Import took 0.040776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.160641 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Dirt_Flat_02.prefab
+  artifactKey: Guid(4cc8530dc87574c4dba24b6604f8e49f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Dirt_Flat_02.prefab using Guid(4cc8530dc87574c4dba24b6604f8e49f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5569f57dc5884cbaa2d55e2bc8aca09a') in 0.036392 seconds
+  Import took 0.041279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.181831 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Dirt_Slope_01.prefab
+  artifactKey: Guid(19807d48d225bd744b9e8d57b6ec7204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Dirt_Slope_01.prefab using Guid(19807d48d225bd744b9e8d57b6ec7204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdae3da98a6675f8e10efe3337efa422') in 0.036587 seconds
+  Import took 0.041307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.168097 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Dirt_Slope_02.prefab
+  artifactKey: Guid(b019ee734c6d4bb47a4cdbd6b234dcca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Dirt_Slope_02.prefab using Guid(b019ee734c6d4bb47a4cdbd6b234dcca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e39de50314c616a782431036490860f') in 0.037597 seconds
+  Import took 0.044801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.166029 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Dirt_Slope_Bump_01.prefab
+  artifactKey: Guid(2e8987c33ff9f624a8b28325cf80f4fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Dirt_Slope_Bump_01.prefab using Guid(2e8987c33ff9f624a8b28325cf80f4fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddbab780218e3a8cfdc1de4a85ea3ccd') in 0.035758 seconds
+  Import took 0.040811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.170004 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Dirt_Slope_Bump_02.prefab
+  artifactKey: Guid(0159fd04ee483184cb5fbaec7383e5c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Dirt_Slope_Bump_02.prefab using Guid(0159fd04ee483184cb5fbaec7383e5c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac03e6a582107b99dfa3e99bc52fb5b1') in 0.037085 seconds
+  Import took 0.042131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.156799 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Dirt_Slope_Corner_01.prefab
+  artifactKey: Guid(8d732c77657c32945ab480b596fce65a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Dirt_Slope_Corner_01.prefab using Guid(8d732c77657c32945ab480b596fce65a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac9ff7946f54749af2fbb05059b4c845') in 0.036241 seconds
+  Import took 0.041530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.158630 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Dirt_Slope_Corner_02.prefab
+  artifactKey: Guid(8032ba5d2be19244c800f754073293d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Dirt_Slope_Corner_02.prefab using Guid(8032ba5d2be19244c800f754073293d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a077402d957b6c6dc3ee446b7028e79') in 0.035833 seconds
+  Import took 0.040926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.173091 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_DirtPile_01.prefab
+  artifactKey: Guid(fffa2241c5a8ffc4f9ddf7cb7e671a9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_DirtPile_01.prefab using Guid(fffa2241c5a8ffc4f9ddf7cb7e671a9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e775eeb2c98700a0f4487130af5b722') in 0.036486 seconds
+  Import took 0.041450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.174428 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_DirtPile_02.prefab
+  artifactKey: Guid(7b36f93e498d3064194f0099054e95a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_DirtPile_02.prefab using Guid(7b36f93e498d3064194f0099054e95a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '763ea008f975d42a3a320600eee993de') in 0.036207 seconds
+  Import took 0.041230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.168958 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Driveway_01.prefab
+  artifactKey: Guid(26cff1cdd16c6c7448debe1a773618b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Driveway_01.prefab using Guid(26cff1cdd16c6c7448debe1a773618b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '120b04b56eef4d74effb404c0838d0a9') in 0.035393 seconds
+  Import took 0.040436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.174155 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Driveway_PathBoth_01.prefab
+  artifactKey: Guid(873c7f830c8c75743b44f5ed5248d87a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Driveway_PathBoth_01.prefab using Guid(873c7f830c8c75743b44f5ed5248d87a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc836b0ebc1b76cef4a24ea69ae859c4') in 0.038768 seconds
+  Import took 0.044870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.162780 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Driveway_PathLeft_01.prefab
+  artifactKey: Guid(87610805b5ff52147bfc9bb034a635f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Driveway_PathLeft_01.prefab using Guid(87610805b5ff52147bfc9bb034a635f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd7b0c18ab4d5991af18e60ed785450a') in 0.042335 seconds
+  Import took 0.047539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.173167 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Driveway_PathRight_01.prefab
+  artifactKey: Guid(d1be2a0677e05514692089046271a6cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Driveway_PathRight_01.prefab using Guid(d1be2a0677e05514692089046271a6cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e88f93eb2684b92d081e1c6cb6381a25') in 0.042720 seconds
+  Import took 0.047813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.167798 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Driveway_Wide_01.prefab
+  artifactKey: Guid(8cf973ab972cbf344b1831306bcce4f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Driveway_Wide_01.prefab using Guid(8cf973ab972cbf344b1831306bcce4f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cc737cadec2e2055388121671d9252a') in 0.042127 seconds
+  Import took 0.047442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.158000 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Driveway_Wide_PathBoth_01.prefab
+  artifactKey: Guid(8fb8e9a467ece904f909754da90e9a13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Driveway_Wide_PathBoth_01.prefab using Guid(8fb8e9a467ece904f909754da90e9a13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bdbb978f30e1e7706066f730bad848f') in 0.043785 seconds
+  Import took 0.048583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.167070 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Driveway_Wide_PathLeft_01.prefab
+  artifactKey: Guid(5b13f1e2f1ea73e4d826e3d931d30af4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Driveway_Wide_PathLeft_01.prefab using Guid(5b13f1e2f1ea73e4d826e3d931d30af4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '183ee8ee9270b03a2597ef2bcff7b421') in 0.041914 seconds
+  Import took 0.048146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.160003 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Driveway_Wide_PathRight_01.prefab
+  artifactKey: Guid(cb044bcd1c75dea4e84b6f5868d6a00f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Driveway_Wide_PathRight_01.prefab using Guid(cb044bcd1c75dea4e84b6f5868d6a00f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0ade4d559a152d5918bb36b269d6f02') in 0.042934 seconds
+  Import took 0.048358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.163076 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Flowers_01.prefab
+  artifactKey: Guid(841b988e2c3721043b9ee1c9e3f5967f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Flowers_01.prefab using Guid(841b988e2c3721043b9ee1c9e3f5967f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae3dde4ef2b8e13f8722519a6c16f8c2') in 0.045407 seconds
+  Import took 0.050575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.165761 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Flowers_02.prefab
+  artifactKey: Guid(24aa54b5b89d10149b75a0a73dd888d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Flowers_02.prefab using Guid(24aa54b5b89d10149b75a0a73dd888d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1c4d07cf27ecd1bf1558341403bb7d6') in 0.043871 seconds
+  Import took 0.048941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.164886 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Flowers_03.prefab
+  artifactKey: Guid(9d25aed48081a4d449cf41968bf7a20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Flowers_03.prefab using Guid(9d25aed48081a4d449cf41968bf7a20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ada28c38e673a07c65f20ee7e1aa601e') in 0.044402 seconds
+  Import took 0.049659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.163283 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Flowers_Large_01.prefab
+  artifactKey: Guid(280fea07668826947a333deccc24f0cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Flowers_Large_01.prefab using Guid(280fea07668826947a333deccc24f0cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1a01e7399a407a7eaf6a4bd33c412b8') in 0.044218 seconds
+  Import took 0.051001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.160632 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Flowers_Large_02.prefab
+  artifactKey: Guid(265bc6884f2ecda44b859ca997cbe720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Flowers_Large_02.prefab using Guid(265bc6884f2ecda44b859ca997cbe720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfb67b8be8a0303e954a4154e77ef13a') in 0.044123 seconds
+  Import took 0.049275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.168974 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Flowers_Large_03.prefab
+  artifactKey: Guid(0677d0ce6bdf22b4ba5908a5e2259d0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Flowers_Large_03.prefab using Guid(0677d0ce6bdf22b4ba5908a5e2259d0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2df8ffaeed145ebbb4dd11a0cc070f54') in 0.042298 seconds
+  Import took 0.047613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.146706 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Grass_01.prefab
+  artifactKey: Guid(21462eac00ec6ae4ab17bca0ac3bca4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Grass_01.prefab using Guid(21462eac00ec6ae4ab17bca0ac3bca4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b94e605efe75e47770b631bfd0e959e0') in 0.050090 seconds
+  Import took 0.055177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.156067 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Grass_02.prefab
+  artifactKey: Guid(6ec739cd7f6e20445b13bced96e1a470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Grass_02.prefab using Guid(6ec739cd7f6e20445b13bced96e1a470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c73aac8f1ee3308e3aaae4fff34fe97c') in 0.044108 seconds
+  Import took 0.049086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.167988 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Grass_Tuft_01.prefab
+  artifactKey: Guid(e85a5f270aefc744d86962e605a57bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Grass_Tuft_01.prefab using Guid(e85a5f270aefc744d86962e605a57bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40766edd79d08f3191b7c47f211f20ed') in 0.043522 seconds
+  Import took 0.048460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.175819 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Grass_Tuft_02.prefab
+  artifactKey: Guid(38a679cbf2c60174f878721348dc3381) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Grass_Tuft_02.prefab using Guid(38a679cbf2c60174f878721348dc3381) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a7f92f5060b5baf15f07bcb5cc411ce') in 0.035910 seconds
+  Import took 0.041202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.190268 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Grass_Tuft_03.prefab
+  artifactKey: Guid(efed0d9bfc3a06841bdac6f14c559c13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Grass_Tuft_03.prefab using Guid(efed0d9bfc3a06841bdac6f14c559c13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '406ec084e7d4d413f711f29fa2ac3c58') in 0.036540 seconds
+  Import took 0.042010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.188924 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_GrassBlob_01.prefab
+  artifactKey: Guid(cd31fb23b55d8124d9977c3b44e7422d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_GrassBlob_01.prefab using Guid(cd31fb23b55d8124d9977c3b44e7422d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc25c564d0d673eb11adfb820c431127') in 0.037869 seconds
+  Import took 0.043279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.176375 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Overgrowth_04.prefab
+  artifactKey: Guid(d98ad58f4489e7f42a88d597bbb6f56b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Overgrowth_04.prefab using Guid(d98ad58f4489e7f42a88d597bbb6f56b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41e94ef37edea6f04b5ebb2742c40b4d') in 0.044083 seconds
+  Import took 0.049931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.244371 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Road_Corner_End_02.prefab
+  artifactKey: Guid(ff43c18d05d4bbb479d5fd98133801f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Road_Corner_End_02.prefab using Guid(ff43c18d05d4bbb479d5fd98133801f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ccf501970eecd4fca213d2e630d9e48') in 0.027838 seconds
+  Import took 0.031327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.263633 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_RoadPiece_Damaged_13.prefab
+  artifactKey: Guid(b51cfe582788f2e48ba6fd487eb48ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_RoadPiece_Damaged_13.prefab using Guid(b51cfe582788f2e48ba6fd487eb48ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ef1347517ea1030de7ad3f84cb8bc6e') in 0.026751 seconds
+  Import took 0.031093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.769055 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Tree_01.prefab
+  artifactKey: Guid(9f34d7f5d1b2bf240988044943b336b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Tree_01.prefab using Guid(9f34d7f5d1b2bf240988044943b336b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e4a35a4710c494d7abd37bb6031dc31') in 0.050895 seconds
+  Import took 0.055904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.607973 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Tunnel_Entrance_01.prefab
+  artifactKey: Guid(892075ff275a6e348b8241c7b8a075ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Tunnel_Entrance_01.prefab using Guid(892075ff275a6e348b8241c7b8a075ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f43455b41ad3b3e5d8ab44e5c9e8b714') in 0.044191 seconds
+  Import took 0.050269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.077794 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Tree_Pine_Tall_03.prefab
+  artifactKey: Guid(bf2e5596a3cc3f34d952e18cee55d5c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Tree_Pine_Tall_03.prefab using Guid(bf2e5596a3cc3f34d952e18cee55d5c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd88cce5e5ac1bbdd456752024997573') in 0.043410 seconds
+  Import took 0.048583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.438006 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Tree_Pine_Tall_02.prefab
+  artifactKey: Guid(39e5bd43ce65e3940a694c93b2545863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Tree_Pine_Tall_02.prefab using Guid(39e5bd43ce65e3940a694c93b2545863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '946706bf2c75d8c0b64d21c6eb942dea') in 0.046803 seconds
+  Import took 0.052622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.653622 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Tree_Pine_Tall_01.prefab
+  artifactKey: Guid(8f3c2b79887cfc44c98b550b0b5da119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Tree_Pine_Tall_01.prefab using Guid(8f3c2b79887cfc44c98b550b0b5da119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f10ea0b2f511aa4337207fb88d1a4ca') in 0.045456 seconds
+  Import took 0.052078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.767121 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Tree_Pine_Cluster_03.prefab
+  artifactKey: Guid(c0718ad816766f34abd3af599e2ab633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment/SM_Env_Tree_Pine_Cluster_03.prefab using Guid(c0718ad816766f34abd3af599e2ab633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '866e42f1a0e5c5492e56400ea7f3aaa0') in 0.043850 seconds
+  Import took 0.049349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.210572 seconds.
+  path: Assets/Scenes/PolygonApocalypse/Demo_City_Standard.unity
+  artifactKey: Guid(cf7c677bbb7aac345a7c35e4f1b92a36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PolygonApocalypse/Demo_City_Standard.unity using Guid(cf7c677bbb7aac345a7c35e4f1b92a36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b9451c3bf68614bc3b8283e77260ce5') in 0.005491 seconds
+  Import took 0.009601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.800382 seconds.
+  path: Assets/Scenes/PolygonApocalypse/Demo_City_Universal_RenderPipeline.unity
+  artifactKey: Guid(9ca7bdae70c06a546aa612594f2f6ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PolygonApocalypse/Demo_City_Universal_RenderPipeline.unity using Guid(9ca7bdae70c06a546aa612594f2f6ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '117e089fe8b4ea606d3b656ce3e5f965') in 0.006690 seconds
+  Import took 0.009715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 89.987387 seconds.
+  path: Assets/Scenes/_PrivateTestScenes/KW_Min.unity
+  artifactKey: Guid(68edfe18afa1094449d9aec5256668ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/_PrivateTestScenes/KW_Min.unity using Guid(68edfe18afa1094449d9aec5256668ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e08a689e0d79b79d4771f4b8632022a') in 0.005477 seconds
+  Import took 0.008345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Scenes/_PrivateTestScenes/KW_Min.unity
+  artifactKey: Guid(68edfe18afa1094449d9aec5256668ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/_PrivateTestScenes/KW_Min.unity using Guid(68edfe18afa1094449d9aec5256668ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e08a689e0d79b79d4771f4b8632022a') in 0.002096 seconds
+  Import took 0.004968 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002066 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000001FD1B9AE8E0 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCFB61B690 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCFAE63FF0 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCFAC63E10 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCF3E477D0 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCFAEBF010 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCFAC7E0F0 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCF8BA4050 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCF4600040 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCFAE63FF0 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCF8276E80 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001FCFB16E070 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.686 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1163 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.9 MB.
+System memory in use after: 87.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1634.
+Total: 2.325500 ms (FindLiveObjects: 0.171700 ms CreateObjectMapping: 0.053200 ms MarkObjects: 2.025600 ms  DeleteObjects: 0.073800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 462.284942 seconds.
+  path: Assets/Scenes/MarketAssetsScenes
+  artifactKey: Guid(82bf9aafc72ece446a4812a9cb242238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MarketAssetsScenes using Guid(82bf9aafc72ece446a4812a9cb242238) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37d87efc0724ecb4d15bf32826e0f72c') in 0.008176 seconds
+  Import took 0.012540 seconds .
+=======
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1557.
+Total: 1.509100 ms (FindLiveObjects: 0.167100 ms CreateObjectMapping: 0.027100 ms MarkObjects: 1.250600 ms  DeleteObjects: 0.063400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/02.Prefabs
+  artifactKey: Guid(758eac4cbc3b3914c9fc1ad294410c3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/02.Prefabs using Guid(758eac4cbc3b3914c9fc1ad294410c3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6db8d3e00432796ab6b968f3fd157a86') in 0.008558 seconds
+  Import took 0.010219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.223690 seconds.
   path: Assets/01.Scenes
   artifactKey: Guid(029dd626273590a48af4c7b01832ab2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/01.Scenes using Guid(029dd626273590a48af4c7b01832ab2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80a4f8c45a781dfb6ac43276459fb7bb') in 0.007316 seconds
-  Import took 0.010304 seconds .
+Start importing Assets/01.Scenes using Guid(029dd626273590a48af4c7b01832ab2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da5bc0a6a77c90a38221d307f7399adf') in 0.006968 seconds
+  Import took 0.008815 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 7.080279 seconds.
-  path: Assets/01.Scenes/민경운.unity
-  artifactKey: Guid(68edfe18afa1094449d9aec5256668ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/01.Scenes/민경운.unity using Guid(68edfe18afa1094449d9aec5256668ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '487ef8dd7a2054fa17f4c3fc98d3628e') in 0.006171 seconds
-  Import took 0.009939 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001776 seconds.
-  path: Assets/01.Scenes/민경운.unity
-  artifactKey: Guid(68edfe18afa1094449d9aec5256668ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/01.Scenes/민경운.unity using Guid(68edfe18afa1094449d9aec5256668ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '487ef8dd7a2054fa17f4c3fc98d3628e') in 0.001867 seconds
-  Import took 0.004859 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.719317 seconds.
-  path: Assets/01.Scenes/홍준선.unity
-  artifactKey: Guid(d4b5404908dea234d9ac7291cbf50def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/01.Scenes/홍준선.unity using Guid(d4b5404908dea234d9ac7291cbf50def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f2b264654cfe3952184ebfb6dc4688e') in 0.006916 seconds
-  Import took 0.009930 seconds .
+  Time since last request: 8.512955 seconds.
+  path: Assets/01.Scenes/정현.unity
+  artifactKey: Guid(ef74938270dc13d469efdd556322878c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/01.Scenes/정현.unity using Guid(ef74938270dc13d469efdd556322878c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e19ab4233cf09c5dab4a94e0a2a2115') in 0.011858 seconds
+  Import took 0.013616 seconds .
+>>>>>>> Stashed changes
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
