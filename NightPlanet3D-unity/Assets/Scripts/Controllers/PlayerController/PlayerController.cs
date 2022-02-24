@@ -7,13 +7,13 @@ public class PlayerController : MonoBehaviour
 {
     public PlayerMovement movement = new PlayerMovement();//움직임 관리
     private PlayerState playerState = new PlayerState();//캐릭터 상태관리
-    //private PlayerAnimation ani = new PlayerAnimation();//캐릭터 애니메이션 관리
+    private PlayerAnimation ani = new PlayerAnimation();//캐릭터 애니메이션 관리
     private PlayerRay ray = new PlayerRay();
 
     void Start()
     {
         movement.Init(transform);
-        //ani.Init(GetComponent<Animator>());//애니메이션 컴포넌트 전달
+        ani.Init(GetComponent<Animator>());//애니메이션 컴포넌트 전달
         ray.Init(transform);
         //ray.carry.Init(transform, ani,movement);
         gameObject.AddComponent<PlayerTrigger>();
@@ -25,7 +25,7 @@ public class PlayerController : MonoBehaviour
     private void Update()
     {
         playerState.OnUpdateState();//입력에 따라 state체크
-        //ani.OnAnimation(playerState.state);//state에 따라 Animation동기화
+        ani.OnAnimation(playerState.state);//state에 따라 Animation동기화
         movement.OnUpdate();
         ray.carry.OnUpdate();
     }

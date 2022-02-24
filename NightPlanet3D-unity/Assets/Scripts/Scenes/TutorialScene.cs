@@ -15,7 +15,8 @@ public class TutorialScene : BaseScene
         GameObject player = GameManager.Resource.Instantiate("Player");//플레이어 생성
         player.transform.position = new Vector3(0, 0, -15f);
         PlayerController playerCtrl = player.GetOrAddComponent<PlayerController>();//PlayerController컴포넌트 부착
-        PlayerMovement.style = PlayerMovement.MoveStyle.Horizontal;//움직임 수평이동
+        //PlayerMovement.style = PlayerMovement.MoveStyle.Horizontal;//움직임 수평이동
+        PlayerMovement.style = PlayerMovement.MoveStyle.Direction16;
         objList.Add(player);//리스트에 추가
 
         //GameObject level = GameManager.Resource.Instantiate("Tutorial_Level");//튜토리얼 맵 생성

@@ -1,9 +1,5 @@
 Using pre-set license
-<<<<<<< Updated upstream
-Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
-=======
 Built from '2020.3/staging' branch; Version is '2020.3.17f1 (a4537701e4ab) revision 10769271'; Using compiler version '192528614'; Build Type 'Release'
->>>>>>> Stashed changes
 OS: 'Windows 10 Home; OS build 19042.1526; Version 2009; 64bit' Language: 'ko' Physical Memory: 16228 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
@@ -19,25 +15,14 @@ C:/Users/민경운/Documents/GitHub/FadeOut/NightPlanet3D-unity/NightPlanet3D-un
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-<<<<<<< Updated upstream
-49314
+63804
 Successfully changed project path to: C:/Users/민경운/Documents/GitHub/FadeOut/NightPlanet3D-unity/NightPlanet3D-unity
 C:/Users/민경운/Documents/GitHub/FadeOut/NightPlanet3D-unity/NightPlanet3D-unity
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 153.49 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Initialize engine version: 2020.3.4f1 (0abb6314276a)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
-=======
-65248
-Successfully changed project path to: C:/Users/민경운/Documents/GitHub/FadeOut/NightPlanet3D-unity/NightPlanet3D-unity
-C:/Users/민경운/Documents/GitHub/FadeOut/NightPlanet3D-unity/NightPlanet3D-unity
-Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 31.88 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 154.49 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.17f1 (a4537701e4ab)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Resources/UnitySubsystems
->>>>>>> Stashed changes
 [Subsystems] Discovering subsystems at path C:/Users/민경운/Documents/GitHub/FadeOut/NightPlanet3D-unity/NightPlanet3D-unity/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
@@ -47,153 +32,92 @@ Direct3D:
     VRAM:     3962 MB
     Driver:   30.0.14.7111
 Initialize mono
-<<<<<<< Updated upstream
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56920
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001945 seconds.
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 166.83 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.189 seconds
-Platform modules already initialized, skipping
-Registering precompiled user dll's ...
-Registered in 0.002179 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000001C276015030 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C275BC3010 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C275E6B020 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C2761A9030 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C27A677020 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C27A380E90 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C27BBF0020 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C2761A9030 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C27A380E90 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C275E6B020 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C275BD6420 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001C27A981A30 doesn't match image C:\Users\민경운\Documents\GitHub\FadeOut\NightPlanet3D-unity\NightPlanet3D-unity\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.61 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.788 seconds
-Platform modules already initialized, skipping
-========================================================================
-Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 1.74 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1174 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 71.7 MB.
-System memory in use after: 71.7 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1618.
-Total: 1.886600 ms (FindLiveObjects: 0.227700 ms CreateObjectMapping: 0.060900 ms MarkObjects: 1.486600 ms  DeleteObjects: 0.110400 ms)
-=======
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56200
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56768
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001965 seconds.
+Registered in 0.001865 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 30.63 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 163.45 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.849 seconds
+- Completed reload, in  1.985 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1849ms)
-		BeginReloadAssembly (56ms)
+	ReloadAssembly (1985ms)
+		BeginReloadAssembly (50ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (418ms)
-			LoadAssemblies (53ms)
+		EndReloadAssembly (501ms)
+			LoadAssemblies (48ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (159ms)
+			SetupTypeCache (134ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (32ms)
-			SetupLoadedEditorAssemblies (154ms)
+			RebuildScriptCaches (29ms)
+			SetupLoadedEditorAssemblies (274ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (31ms)
-				BeforeProcessingInitializeOnLoad (17ms)
-				ProcessInitializeOnLoadAttributes (76ms)
-				ProcessInitializeOnLoadMethodAttributes (27ms)
+				RefreshPlugins (164ms)
+				BeforeProcessingInitializeOnLoad (15ms)
+				ProcessInitializeOnLoadAttributes (67ms)
+				ProcessInitializeOnLoadMethodAttributes (25ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.007594 seconds.
+Registered in 0.005041 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 1.62 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.117 seconds
+- Completed reload, in  1.032 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1117ms)
-		BeginReloadAssembly (154ms)
+	ReloadAssembly (1033ms)
+		BeginReloadAssembly (140ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (9ms)
+			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (19ms)
-		EndReloadAssembly (901ms)
-			LoadAssemblies (88ms)
+			CreateAndSetChildDomain (16ms)
+		EndReloadAssembly (807ms)
+			LoadAssemblies (86ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (284ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (41ms)
-			SetupLoadedEditorAssemblies (382ms)
+			SetupTypeCache (245ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (351ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (79ms)
-				ProcessInitializeOnLoadAttributes (283ms)
-				ProcessInitializeOnLoadMethodAttributes (5ms)
-				AfterProcessingInitializeOnLoad (8ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (71ms)
+				ProcessInitializeOnLoadAttributes (262ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (7ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (7ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 1.67 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1397 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 65.3 MB.
-System memory in use after: 65.4 MB.
+Unloading 1456 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.3 MB.
+System memory in use after: 79.3 MB.
 
-Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1830.
-Total: 3.905500 ms (FindLiveObjects: 0.207100 ms CreateObjectMapping: 0.077600 ms MarkObjects: 3.533100 ms  DeleteObjects: 0.085400 ms)
->>>>>>> Stashed changes
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1891.
+Total: 2.402200 ms (FindLiveObjects: 0.133100 ms CreateObjectMapping: 0.049400 ms MarkObjects: 2.149400 ms  DeleteObjects: 0.068200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -207,56 +131,1513 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-<<<<<<< Updated upstream
-  path: Assets/Resources/Prefabs/Character_70sFemale_01.prefab
-  artifactKey: Guid(d73e549e33d28d64d836b644e9153314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/Prefabs/Character_70sFemale_01.prefab using Guid(d73e549e33d28d64d836b644e9153314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20b542cbc934fbe0d787d1cfe31438a2') in 0.217415 seconds
-  Import took 0.222476 seconds .
+  path: Assets/Kevin Iglesias
+  artifactKey: Guid(71abdd438103cf84e903c6436dd8123e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias using Guid(71abdd438103cf84e903c6436dd8123e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f102d69c0e936c56d4b94de71709ba9') in 0.010165 seconds 
+  Import took 0.013671 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 220.877134 seconds.
-  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/SM_Chr_Teen_Male_01.prefab
-  artifactKey: Guid(beecc60259940fb4883c123adc4e992f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/SM_Chr_Teen_Male_01.prefab using Guid(beecc60259940fb4883c123adc4e992f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd18d018beda43364ca0bacac876cf968') in 0.091675 seconds
-  Import took 0.099645 seconds .
+  Time since last request: 0.000184 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions
+  artifactKey: Guid(2cb279c410b7a3e4dbf4aab42283effa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions using Guid(2cb279c410b7a3e4dbf4aab42283effa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8e576ef97b26abf89e199dd7b892e27') in 0.009842 seconds 
+  Import took 0.013659 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 12.222848 seconds.
-  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/SM_Chr_Teen_Female_01.prefab
-  artifactKey: Guid(da9cdc9076b584147bdf535245f9454e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/SM_Chr_Teen_Female_01.prefab using Guid(da9cdc9076b584147bdf535245f9454e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f33e96e00daf7534cf02b38d964b330') in 0.084621 seconds
-  Import took 0.091967 seconds .
+  Time since last request: 0.000194 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions/Animations
+  artifactKey: Guid(7eb11f9df068c2b45bc52cfc0d6e3f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions/Animations using Guid(7eb11f9df068c2b45bc52cfc0d6e3f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b64db3196c89a4c0679f4d08a0d41deb') in 0.008374 seconds 
+  Import took 0.011735 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1371.829074 seconds.
-  path: Assets/Scenes/MarketAssetsScenes/PolygonDungeon/Overview.unity
-  artifactKey: Guid(af9a4cb92e9f73243b46e64789af715a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/MarketAssetsScenes/PolygonDungeon/Overview.unity using Guid(af9a4cb92e9f73243b46e64789af715a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6165e3b7bc8de7fe967958af60cf9b16') in 0.010079 seconds
-  Import took 0.014282 seconds .
+  Time since last request: 0.186582 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions/Animations/Movement
+  artifactKey: Guid(162d3c986ae81044b8e9de5caae05de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions/Animations/Movement using Guid(162d3c986ae81044b8e9de5caae05de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fe79483b141b36c9b5f071b58c47bf6') in 0.008188 seconds 
+  Import took 0.011218 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000635 seconds.
-  path: Assets/Scenes/MarketAssetsScenes/PolygonDungeon/Overview.unity
-  artifactKey: Guid(af9a4cb92e9f73243b46e64789af715a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/MarketAssetsScenes/PolygonDungeon/Overview.unity using Guid(af9a4cb92e9f73243b46e64789af715a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6165e3b7bc8de7fe967958af60cf9b16') in 0.003973 seconds
-  Import took 0.006971 seconds .
+  Time since last request: 1.053874 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Fall01.fbx
+  artifactKey: Guid(3cabfb869c27a7d43910910c52764b5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Fall01.fbx using Guid(3cabfb869c27a7d43910910c52764b5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd71fd5f926c60eb5576e69b6c333c6ef') in 0.058514 seconds 
+  Import took 0.061602 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 15.468343 seconds.
-  path: Assets/Scenes/_PrivateTestScenes/KW_Min.unity
-  artifactKey: Guid(68edfe18afa1094449d9aec5256668ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/_PrivateTestScenes/KW_Min.unity using Guid(68edfe18afa1094449d9aec5256668ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '322ef231a4f82006eeb05e34e973417c') in 0.010349 seconds
-  Import took 0.013308 seconds .
-=======
-  path: Assets/01.Scenes/SampleScene.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/01.Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7222e7d7b5e811e9b8d4cab73a4763a') in 0.025309 seconds 
-  Import took 0.028719 seconds .
->>>>>>> Stashed changes
+  Time since last request: 9.288517 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Run01 [RM].fbx
+  artifactKey: Guid(154a724602422044c91070a5f3c67c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Run01 [RM].fbx using Guid(154a724602422044c91070a5f3c67c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6d219556b2fa72f8d500cc4e82ba4c9') in 0.015970 seconds 
+  Import took 0.020576 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001873 seconds.
+  path: Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Run01 [RM].fbx
+  artifactKey: Guid(154a724602422044c91070a5f3c67c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Run01 [RM].fbx using Guid(154a724602422044c91070a5f3c67c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6d219556b2fa72f8d500cc4e82ba4c9') in 0.014113 seconds 
+  Import took 0.019200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.058117 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@LandRoll01.fbx
+  artifactKey: Guid(b95e62cd66b249b49b606e3baf8fcb55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@LandRoll01.fbx using Guid(b95e62cd66b249b49b606e3baf8fcb55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8da7a0d257521e9a95b209e769b9c41') in 0.014540 seconds 
+  Import took 0.019224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002282 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@LandRoll01.fbx
+  artifactKey: Guid(b95e62cd66b249b49b606e3baf8fcb55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@LandRoll01.fbx using Guid(b95e62cd66b249b49b606e3baf8fcb55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8da7a0d257521e9a95b209e769b9c41') in 0.011535 seconds 
+  Import took 0.017359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.686348 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Run01.fbx
+  artifactKey: Guid(46d5b47e60163f148ada32ff97c7aa32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Run01.fbx using Guid(46d5b47e60163f148ada32ff97c7aa32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '864ba134c2f2067ccdf2be8126560e1f') in 0.016058 seconds 
+  Import took 0.020238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.681042 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Walk01.fbx
+  artifactKey: Guid(0536f044bd409ff419dd726bc69d2676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Walk01.fbx using Guid(0536f044bd409ff419dd726bc69d2676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32fcd96f1c92af0de8746854baf9027b') in 0.016943 seconds 
+  Import took 0.022099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.222308 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs
+  artifactKey: Guid(5d94a61f131a47d4dafd326b111dca2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs using Guid(5d94a61f131a47d4dafd326b111dca2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2ebb2b9b5cab83f5f67f678ffdb3967') in 0.008242 seconds 
+  Import took 0.012221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.205759 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters
+  artifactKey: Guid(5537359876f4482469122bf9bf4d5685) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters using Guid(5537359876f4482469122bf9bf4d5685) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8da22384de690316a0ad68eb6e7c8493') in 0.009396 seconds 
+  Import took 0.013379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.262838 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/SM_Chr_Cool_Male_01.prefab
+  artifactKey: Guid(e2d415ab74b8cd44d997ab29bd081294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/SM_Chr_Cool_Male_01.prefab using Guid(e2d415ab74b8cd44d997ab29bd081294) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f78766a233d0d1713354125cc66c86c') in 0.199930 seconds 
+  Import took 0.206956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.962061 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/SM_Chr_Emo_Female_01.prefab
+  artifactKey: Guid(0ac3d11c8cf5cc84e842a38373f754e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/SM_Chr_Emo_Female_01.prefab using Guid(0ac3d11c8cf5cc84e842a38373f754e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d5c013533ce9639cc4d52ec083885dc') in 0.101441 seconds 
+  Import took 0.107640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.445351 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/SM_Chr_Zombie_Female_01.prefab
+  artifactKey: Guid(807784d16a875e0499c116c9506424aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/SM_Chr_Zombie_Female_01.prefab using Guid(807784d16a875e0499c116c9506424aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f01720af8d46915e8e49099ca2f3ee93') in 0.094961 seconds 
+  Import took 0.102565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.530276 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/SM_Chr_Soldier_Male_01.prefab
+  artifactKey: Guid(0a08fd84400ab0c41b7a22b7fd0b90a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/SM_Chr_Soldier_Male_01.prefab using Guid(0a08fd84400ab0c41b7a22b7fd0b90a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c578b762769dfa75a551d312727a438') in 0.094240 seconds 
+  Import took 0.100710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.232799 seconds.
+  path: Assets/Resources/Prefabs/PlayerB.prefab
+  artifactKey: Guid(33a410ccd3723f648bd12d4ada2fe198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Prefabs/PlayerB.prefab using Guid(33a410ccd3723f648bd12d4ada2fe198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80644d80a3145ab9036b0a0bae10cfc5') in 0.101127 seconds 
+  Import took 0.109430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.325014 seconds.
+  path: Assets/Resources/Prefabs/Player.prefab
+  artifactKey: Guid(3ec1f39b73b869c4382488f54101ee53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Prefabs/Player.prefab using Guid(3ec1f39b73b869c4382488f54101ee53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae8a1b8e16892ea85b8897016a0b683c') in 0.094645 seconds 
+  Import took 0.101226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 94.408221 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Jump01.fbx
+  artifactKey: Guid(067cc188e25b78b4a940a9fa67cd6ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Jump01.fbx using Guid(067cc188e25b78b4a940a9fa67cd6ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6715dd6b5b3b7663b0b7fa7d7868b7f') in 0.013509 seconds 
+  Import took 0.017153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005914 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Jump01.fbx
+  artifactKey: Guid(067cc188e25b78b4a940a9fa67cd6ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Jump01.fbx using Guid(067cc188e25b78b4a940a9fa67cd6ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6715dd6b5b3b7663b0b7fa7d7868b7f') in 0.012489 seconds 
+  Import took 0.016118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.922368 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/BasicMotions@Cheer01.fbx
+  artifactKey: Guid(967cd4496fd606949b4474efc3c4b098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/BasicMotions@Cheer01.fbx using Guid(967cd4496fd606949b4474efc3c4b098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '523b5a5933d8db0f1960f930b32b5ed8') in 0.012641 seconds 
+  Import took 0.016767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@RunTurn02.fbx
+  artifactKey: Guid(c041a7df19fe3914b9cfdc24d626ab59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@RunTurn02.fbx using Guid(c041a7df19fe3914b9cfdc24d626ab59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8870ffb3cf8b83f444f92a30267c720d') in 0.014344 seconds 
+  Import took 0.018860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/FX/Prefabbed/FX_BloodSplat_01.prefab
+  artifactKey: Guid(b369efb4abe69e044890b664115fab9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/FX/Prefabbed/FX_BloodSplat_01.prefab using Guid(b369efb4abe69e044890b664115fab9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fedb6fd584a3761a706be6d91a0b42c0') in 0.088809 seconds 
+  Import took 0.092394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/FX/Prefabbed/FX_Ash_01.prefab
+  artifactKey: Guid(95bc66f313693ee43b364c3f4bc3708b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/FX/Prefabbed/FX_Ash_01.prefab using Guid(95bc66f313693ee43b364c3f4bc3708b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94b75429885969d230deb2837aa40f19') in 0.052911 seconds 
+  Import took 0.056900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/Crouch/BasicMotions@Crouch01 - Idle.fbx
+  artifactKey: Guid(980ad5c750091994a8fad93894c51658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/Crouch/BasicMotions@Crouch01 - Idle.fbx using Guid(980ad5c750091994a8fad93894c51658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df2c4ad8905b0570d6531e674f632894') in 0.017358 seconds 
+  Import took 0.020760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/Swim/BasicMotions@Swim01.fbx
+  artifactKey: Guid(8bfa377e2acab5c4f9dc82d0491560b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/Swim/BasicMotions@Swim01.fbx using Guid(8bfa377e2acab5c4f9dc82d0491560b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd85d5d1424cfefe84608a9ecad4cfb3') in 0.019967 seconds 
+  Import took 0.023702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@SkidStop01.fbx
+  artifactKey: Guid(a57ac3f83414fb440b6c52cb6be60350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@SkidStop01.fbx using Guid(a57ac3f83414fb440b6c52cb6be60350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95f414fc87aab082a8c530e7f508ee7a') in 0.015677 seconds 
+  Import took 0.019742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Walk01 [RM].fbx
+  artifactKey: Guid(bd1c2e9064da28e4fb0fe4a3f6ff4e33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Walk01 [RM].fbx using Guid(bd1c2e9064da28e4fb0fe4a3f6ff4e33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eddc95dabbbd6a81841d74dcf011ef82') in 0.017651 seconds 
+  Import took 0.021475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/FX/Misc/FX_Bullet_Trail.fbx
+  artifactKey: Guid(91319d540e88354488b665f7aeab322e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/FX/Misc/FX_Bullet_Trail.fbx using Guid(91319d540e88354488b665f7aeab322e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65dfc00a459012769152bd028158356a') in 0.222577 seconds 
+  Import took 0.225464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/Crouch/BasicMotions@CrouchWalk01.fbx
+  artifactKey: Guid(48b1089676935c94cb609a9ebaf8b2fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/Crouch/BasicMotions@CrouchWalk01.fbx using Guid(48b1089676935c94cb609a9ebaf8b2fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '719c74d98584b4f41601636711217478') in 0.014938 seconds 
+  Import took 0.019371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@RunTurn01.fbx
+  artifactKey: Guid(b94151c5625dfb44381fa207d2a17e61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@RunTurn01.fbx using Guid(b94151c5625dfb44381fa207d2a17e61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e31da22d5ba30e62b5d37cfa260bf5d') in 0.016099 seconds 
+  Import took 0.019661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Misc/BasicMotions@SitGround01.fbx
+  artifactKey: Guid(abe666b672568124c85e211c5f239089) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Misc/BasicMotions@SitGround01.fbx using Guid(abe666b672568124c85e211c5f239089) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '670e23eb4b32dc6bf0242c6062b5b7b4') in 0.015780 seconds 
+  Import took 0.019349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/FX/Misc/FX_Ash.fbx
+  artifactKey: Guid(450a427f4183b8544bb36a8277709dd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/FX/Misc/FX_Ash.fbx using Guid(450a427f4183b8544bb36a8277709dd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afebacb53810429c914c4917e19318c7') in 0.017437 seconds 
+  Import took 0.021009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Misc/BasicMotions@Loot01.fbx
+  artifactKey: Guid(e73859bd34b5e1a4f83fee15d7630d06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Misc/BasicMotions@Loot01.fbx using Guid(e73859bd34b5e1a4f83fee15d7630d06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '897b16efc76665167a3ac8e51e332fe0') in 0.015944 seconds 
+  Import took 0.019992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Misc/BasicMotions@SitHigh01.fbx
+  artifactKey: Guid(997f5c8b30f156d48b5c84a1c2198929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Misc/BasicMotions@SitHigh01.fbx using Guid(997f5c8b30f156d48b5c84a1c2198929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f9c7a6aca683edf1603d7229dc96188') in 0.017729 seconds 
+  Import took 0.021730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/Conversation/BasicMotions@Exclamation01.fbx
+  artifactKey: Guid(d8d6881cb7bb4ce44a2ad2ee020297cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/Conversation/BasicMotions@Exclamation01.fbx using Guid(d8d6881cb7bb4ce44a2ad2ee020297cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fab60e24170dcbfdf28b7d13c419c19c') in 0.012632 seconds 
+  Import took 0.016168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Misc/BasicMotions@SitLow01.fbx
+  artifactKey: Guid(c809d444a76731846aaaaa816b3d3730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Misc/BasicMotions@SitLow01.fbx using Guid(c809d444a76731846aaaaa816b3d3730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '232a8fb487626552e510a9e35dbc7bcc') in 0.018762 seconds 
+  Import took 0.022677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/BasicMotions@Clap02.fbx
+  artifactKey: Guid(84dbfa7d885b0884191a1228af91e878) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/BasicMotions@Clap02.fbx using Guid(84dbfa7d885b0884191a1228af91e878) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53f9c3b755f9d90515646b5b07ef5342') in 0.012706 seconds 
+  Import took 0.016460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/Conversation/BasicMotions@Exclamation02.fbx
+  artifactKey: Guid(f7783d4868406d14fa87e0df92aa6ad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/Conversation/BasicMotions@Exclamation02.fbx using Guid(f7783d4868406d14fa87e0df92aa6ad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4950dda5759c284b21a9375448d382d5') in 0.014671 seconds 
+  Import took 0.018995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@ShuffleRight.fbx
+  artifactKey: Guid(6a2542a821d75d948a69d0988fd66784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@ShuffleRight.fbx using Guid(6a2542a821d75d948a69d0988fd66784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eafda63c954ccccfb4aa20866906b246') in 0.014483 seconds 
+  Import took 0.018562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Misc/BasicMotions@SitMed01.fbx
+  artifactKey: Guid(ab23d6d6e4e991641b2dc376f55343b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Misc/BasicMotions@SitMed01.fbx using Guid(ab23d6d6e4e991641b2dc376f55343b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69419779db267410def95e64f263e542') in 0.018667 seconds 
+  Import took 0.023039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Turn01.fbx
+  artifactKey: Guid(f45b1f4a3a1a56a4abdf6cebc25d939c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Turn01.fbx using Guid(f45b1f4a3a1a56a4abdf6cebc25d939c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70e3049e0ade05c0e686c309b84d5560') in 0.014333 seconds 
+  Import took 0.018016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/FX/Prefabbed/FX_Dust_Interior_01.prefab
+  artifactKey: Guid(af937520f1427db4fafdbb6049ae0d88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/FX/Prefabbed/FX_Dust_Interior_01.prefab using Guid(af937520f1427db4fafdbb6049ae0d88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '084908c3b138421a6b130eb1a1394eb1') in 0.045615 seconds 
+  Import took 0.049148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/FX/Misc/Bullet_Trail_FX.prefab
+  artifactKey: Guid(7af0025c87c32d548bd8331f3955239a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/FX/Misc/Bullet_Trail_FX.prefab using Guid(7af0025c87c32d548bd8331f3955239a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '162ad464498468155020a52f11a9ed31') in 0.016692 seconds 
+  Import took 0.020369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/BasicMotions@Horror01.fbx
+  artifactKey: Guid(5fcdcf21e5c62b348b04763600e8d7ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/BasicMotions@Horror01.fbx using Guid(5fcdcf21e5c62b348b04763600e8d7ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90137b450ae0162cd235875b02612003') in 0.014363 seconds 
+  Import took 0.018372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/AvatarMasks/BasicMotions@ClosedHands [Hands].fbx
+  artifactKey: Guid(8f80c6fc75306544dbe7bad5e744f2ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/AvatarMasks/BasicMotions@ClosedHands [Hands].fbx using Guid(8f80c6fc75306544dbe7bad5e744f2ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b973f6969ce2324a6df5b3b523c7ccc') in 0.012518 seconds 
+  Import took 0.016263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/AvatarMasks/BasicMotions@ClosedRightHand [Hands].fbx
+  artifactKey: Guid(c5cdd8039c7bf9847a0b7b7bc45d7a72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/AvatarMasks/BasicMotions@ClosedRightHand [Hands].fbx using Guid(c5cdd8039c7bf9847a0b7b7bc45d7a72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '103051a906abf94296f2328b0e62017b') in 0.012073 seconds 
+  Import took 0.015302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Idles/BasicMotions@Idle02.fbx
+  artifactKey: Guid(69d59c13a83a7c74a8cc0607ded391ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Idles/BasicMotions@Idle02.fbx using Guid(69d59c13a83a7c74a8cc0607ded391ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b62fa997c3489396791cc32730181ed1') in 0.016051 seconds 
+  Import took 0.019945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/AvatarMasks/BasicMotions@ClosedLeftHand [Hands].fbx
+  artifactKey: Guid(d045672a75051324193e20706d26cb28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/AvatarMasks/BasicMotions@ClosedLeftHand [Hands].fbx using Guid(d045672a75051324193e20706d26cb28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6226a0ac5bdd2539148b9faa8c2ce6ae') in 0.011033 seconds 
+  Import took 0.015499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/BasicMotions@HandWave01.fbx
+  artifactKey: Guid(de09d408ba4ba99489d0ad1f73a0ac54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/BasicMotions@HandWave01.fbx using Guid(de09d408ba4ba99489d0ad1f73a0ac54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52510038610287fca34a0a1eaf65e385') in 0.011829 seconds 
+  Import took 0.016578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Idles/BasicMotions@Idle01.fbx
+  artifactKey: Guid(a3422ad278cd9a94aa3da8e6bff9deea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Idles/BasicMotions@Idle01.fbx using Guid(a3422ad278cd9a94aa3da8e6bff9deea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5269270f2a9ea34eabfb30a994713f3d') in 0.016435 seconds 
+  Import took 0.020736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Strafe01.fbx
+  artifactKey: Guid(746837b598388314184f258020b9d9e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Strafe01.fbx using Guid(746837b598388314184f258020b9d9e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4185c6269e3db8f212d89de8396d0ca9') in 0.014113 seconds 
+  Import took 0.017837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/FX/Prefabbed/FX_Dust_Wind_01.prefab
+  artifactKey: Guid(a4aa62b80441097409b1b568b8ff5f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/FX/Prefabbed/FX_Dust_Wind_01.prefab using Guid(a4aa62b80441097409b1b568b8ff5f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cc86d5585f99f49e6d75ebec90a1c19') in 0.021962 seconds 
+  Import took 0.025624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/FX/Prefabbed/FX_Bullet_Shells_01.prefab
+  artifactKey: Guid(d1d2a96a9fbbc6d4ebc40a558b89e570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/FX/Prefabbed/FX_Bullet_Shells_01.prefab using Guid(d1d2a96a9fbbc6d4ebc40a558b89e570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c60564c069bee77c7c87f1dc7ab6767a') in 0.041249 seconds 
+  Import took 0.045574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/BasicMotions@Clap01.fbx
+  artifactKey: Guid(bac76582537ff434db581c571a4f5d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/BasicMotions@Clap01.fbx using Guid(bac76582537ff434db581c571a4f5d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '393cf93ee6e1f96d9edd089d751c5dbe') in 0.016564 seconds 
+  Import took 0.020798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Misc/BasicMotions@Opening01.fbx
+  artifactKey: Guid(aea82a931267d04419c0058b097fcf77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Misc/BasicMotions@Opening01.fbx using Guid(aea82a931267d04419c0058b097fcf77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c7b95fac2bc4c78b60636ecf0913bfb') in 0.015717 seconds 
+  Import took 0.021094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@ShuffleLeft.fbx
+  artifactKey: Guid(4f491ced9b9030541bdec4fd4ce50f6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@ShuffleLeft.fbx using Guid(4f491ced9b9030541bdec4fd4ce50f6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e03d2ae6e7dd3bcb284e442f2cc17140') in 0.016892 seconds 
+  Import took 0.021729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/Swim/BasicMotions@SwimDrown01.fbx
+  artifactKey: Guid(0621473f99a2b0d4f803a85d72893e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/Swim/BasicMotions@SwimDrown01.fbx using Guid(0621473f99a2b0d4f803a85d72893e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '847790ff502ffb1e3cc5fbfc0cd98e56') in 0.015992 seconds 
+  Import took 0.020057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/Conversation/BasicMotions@Question01.fbx
+  artifactKey: Guid(90aea7fa61ac90d48a24221bd57a4460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/Conversation/BasicMotions@Question01.fbx using Guid(90aea7fa61ac90d48a24221bd57a4460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3a2487d8649324cad9286eaa5a298cc') in 0.015135 seconds 
+  Import took 0.019137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/Swim/BasicMotions@Swim01 [RM].fbx
+  artifactKey: Guid(614bb8ba4374a694dadda5b7321a2c2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/Swim/BasicMotions@Swim01 [RM].fbx using Guid(614bb8ba4374a694dadda5b7321a2c2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0d6588afed03f53d1db1844ebc80c5c') in 0.025746 seconds 
+  Import took 0.030369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/Conversation/BasicMotions@Talk01.fbx
+  artifactKey: Guid(c9193c883cbd00b4cbe5f1dd2d2aa494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/Conversation/BasicMotions@Talk01.fbx using Guid(c9193c883cbd00b4cbe5f1dd2d2aa494) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8aa4500a78afb8f28c0b789e8641e05') in 0.013662 seconds 
+  Import took 0.017146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@TurnAround01.fbx
+  artifactKey: Guid(1b96346a2d0fa0641ad873a6274c5fc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@TurnAround01.fbx using Guid(1b96346a2d0fa0641ad873a6274c5fc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '952a0b353f6a69d5f0b7932261c1b2e1') in 0.014634 seconds 
+  Import took 0.018958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/BasicMotions@HandWave02.fbx
+  artifactKey: Guid(e6be78c67ed2e31439200bc8843b3a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/BasicMotions@HandWave02.fbx using Guid(e6be78c67ed2e31439200bc8843b3a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e84abe29b673cdd775b17fff9db4188') in 0.013439 seconds 
+  Import took 0.018018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/Conversation/BasicMotions@Talk02.fbx
+  artifactKey: Guid(2327937cd754104478f2c94d68574170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/Conversation/BasicMotions@Talk02.fbx using Guid(2327937cd754104478f2c94d68574170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8de310897898a32f2d68899444d3baab') in 0.013953 seconds 
+  Import took 0.018319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@TurnAround02.fbx
+  artifactKey: Guid(c769a1a040b82cb44a5205f41824bd70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@TurnAround02.fbx using Guid(c769a1a040b82cb44a5205f41824bd70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd21ebcd6b5f857cb986ba49aa71d6322') in 0.017056 seconds 
+  Import took 0.020745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/Conversation/BasicMotions@Talk03.fbx
+  artifactKey: Guid(87dc57f57eda5f54286996a9744d1092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/Conversation/BasicMotions@Talk03.fbx using Guid(87dc57f57eda5f54286996a9744d1092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ba4f3a116cd9d87fd6039ef33656f09') in 0.012863 seconds 
+  Import took 0.016035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Sprint01 [RM].fbx
+  artifactKey: Guid(7eebd174ff53112419b27f9d903573d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Sprint01 [RM].fbx using Guid(7eebd174ff53112419b27f9d903573d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73d5f0be9f855a442b59e0328f7e7ae8') in 0.013267 seconds 
+  Import took 0.017045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/BasicMotions@Cheer02.fbx
+  artifactKey: Guid(2db69e2e66090a345894461abe625bcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/BasicMotions@Cheer02.fbx using Guid(2db69e2e66090a345894461abe625bcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae40e2761a8b7f65a3eaf2e6ea103b26') in 0.016350 seconds 
+  Import took 0.020373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Sprint01.fbx
+  artifactKey: Guid(98d8219075968bd43b75fdba6b4463d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/BasicMotions@Sprint01.fbx using Guid(98d8219075968bd43b75fdba6b4463d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62576f61d4970516063ea3d5ed6ddff3') in 0.015625 seconds 
+  Import took 0.019762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/Swim/BasicMotions@SwimIdle01.fbx
+  artifactKey: Guid(d5df983f2d17ac343835adfd0acde4a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/Swim/BasicMotions@SwimIdle01.fbx using Guid(d5df983f2d17ac343835adfd0acde4a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f0287a333135584ec6a07cf1fcfe1f1') in 0.019001 seconds 
+  Import took 0.024134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/Crouch/BasicMotions@CrouchWalk01 [RM].fbx
+  artifactKey: Guid(12676edc0091dd64a90858ea0f6e3918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Movement/Crouch/BasicMotions@CrouchWalk01 [RM].fbx using Guid(12676edc0091dd64a90858ea0f6e3918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f21e8116c2d5d3168f0d6a07ea030a1') in 0.018997 seconds 
+  Import took 0.023216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/Conversation/BasicMotions@Exclamation03.fbx
+  artifactKey: Guid(e3e15bfd8e8752b4c8e5af606f018056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/Conversation/BasicMotions@Exclamation03.fbx using Guid(e3e15bfd8e8752b4c8e5af606f018056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9626c846ef54a94b96ad6788d23a3b1') in 0.028137 seconds 
+  Import took 0.033207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/Conversation/BasicMotions@Question02.fbx
+  artifactKey: Guid(a5ac979c4bb4da046955cf527da03b7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Social/Conversation/BasicMotions@Question02.fbx using Guid(a5ac979c4bb4da046955cf527da03b7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58ebb7194a6922a3148fd4ae743004ea') in 0.029759 seconds 
+  Import took 0.034686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.566482 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_Alien_Male_01.prefab
+  artifactKey: Guid(2b8c202f3d8aab24f80a30b09b342ec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_Alien_Male_01.prefab using Guid(2b8c202f3d8aab24f80a30b09b342ec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91970f3b5f4e32c280afc72b983ec1fe') in 0.407644 seconds 
+  Import took 0.412864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_Medical_Male_01.prefab
+  artifactKey: Guid(76abcab92ff045d4083fdb3f1c4bbd9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_Medical_Male_01.prefab using Guid(76abcab92ff045d4083fdb3f1c4bbd9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c7a6d15cb898a0ab518312524a4b16c') in 0.090838 seconds 
+  Import took 0.096094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_Alien_Male_02.prefab
+  artifactKey: Guid(b057ea2a8dfb7544fa2448a2e1357367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_Alien_Male_02.prefab using Guid(b057ea2a8dfb7544fa2448a2e1357367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eb39e93a3ea0b8772a82e06520cdcf9') in 0.043052 seconds 
+  Import took 0.048921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/ScaleFixedCharacters/Character_Ghost_01.prefab
+  artifactKey: Guid(fca0db359d6a91b4c8c39324d314cd2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/ScaleFixedCharacters/Character_Ghost_01.prefab using Guid(fca0db359d6a91b4c8c39324d314cd2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a15672e0fea3e3bd08a3a9de26c6057') in 0.283642 seconds 
+  Import took 0.288111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Models/SM_Chr_Attach_Teen_Male_Hat_01.fbx
+  artifactKey: Guid(e0547317370a2694fb5d0df011e89dec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Models/SM_Chr_Attach_Teen_Male_Hat_01.fbx using Guid(e0547317370a2694fb5d0df011e89dec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '343c1ef93b8ae46ce6e09745f7e30433') in 0.015303 seconds 
+  Import took 0.018257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_Junky_Female_01.prefab
+  artifactKey: Guid(be6e7002526a3724f97d31ae3e596927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_Junky_Female_01.prefab using Guid(be6e7002526a3724f97d31ae3e596927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04a07e965cc390cf075eaec95af4edda') in 0.079551 seconds 
+  Import took 0.085901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/ScaleFixedCharacters/Character_Hero_Knight_Male.prefab
+  artifactKey: Guid(a96b63f27d072234bbc3d7818166e4eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/ScaleFixedCharacters/Character_Hero_Knight_Male.prefab using Guid(a96b63f27d072234bbc3d7818166e4eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8269d44a38a93e2c365a95a1c5f5799') in 0.254234 seconds 
+  Import took 0.258255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/Character_Hero_Knight_Male.prefab
+  artifactKey: Guid(880858dfd9b1e784e89d45242bf78d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/Character_Hero_Knight_Male.prefab using Guid(880858dfd9b1e784e89d45242bf78d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2d17dc58105a4e07533d5ff5fc02c29') in 0.059297 seconds 
+  Import took 0.063361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_Augmented_Male_01.prefab
+  artifactKey: Guid(a37e15f4f9ea2284097945cfeb8fe9c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_Augmented_Male_01.prefab using Guid(a37e15f4f9ea2284097945cfeb8fe9c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6161cedc69eba1f1477f39af37f92fb5') in 0.051757 seconds 
+  Import took 0.058344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/Character_Goblin_Female.prefab
+  artifactKey: Guid(d48e97c38730e6d4a8a87d44d568bc50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/Character_Goblin_Female.prefab using Guid(d48e97c38730e6d4a8a87d44d568bc50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8287089110dea7dc4d91f2fdff817271') in 0.022225 seconds 
+  Import took 0.026906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_Cop_01.prefab
+  artifactKey: Guid(0ad0eab167bb2974ab38b6df07f8d458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_Cop_01.prefab using Guid(0ad0eab167bb2974ab38b6df07f8d458) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baad184bab799742846dbe853bea03b9') in 0.047901 seconds 
+  Import took 0.053251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_Cyber_Male_01.prefab
+  artifactKey: Guid(4ec55b0fc5a631142b1505018530d38b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_Cyber_Male_01.prefab using Guid(4ec55b0fc5a631142b1505018530d38b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74156881f812ef6394f7deb81458808b') in 0.185113 seconds 
+  Import took 0.192503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_Junky_Male_01.prefab
+  artifactKey: Guid(b1d589de4cb337b47a6b60a449d26b2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_Junky_Male_01.prefab using Guid(b1d589de4cb337b47a6b60a449d26b2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f70852e3102f2c19a4eaf7db6d6cbff7') in 0.076851 seconds 
+  Import took 0.084515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001076 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_Junky_Female_01.prefab
+  artifactKey: Guid(9335937f22aa2ad40a7b14777c48f61c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_Junky_Female_01.prefab using Guid(9335937f22aa2ad40a7b14777c48f61c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0300b19de9f3914b101f1466d0057cf7') in 0.059547 seconds 
+  Import took 0.066904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/ScaleFixedCharacters/Character_Goblin_Female.prefab
+  artifactKey: Guid(8cccb88f6abce2445aec080d5a965bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/ScaleFixedCharacters/Character_Goblin_Female.prefab using Guid(8cccb88f6abce2445aec080d5a965bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cc51edf052e9b0f9b1ad5bb56d89d3b') in 0.045719 seconds 
+  Import took 0.052874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000669 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_Hologram_Female_01.prefab
+  artifactKey: Guid(da563cdca29e92d4ab32c3331d2db540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_Hologram_Female_01.prefab using Guid(da563cdca29e92d4ab32c3331d2db540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f571ab7c66127de29b5100b3cc85537') in 0.056866 seconds 
+  Import took 0.065042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/Character_Goblin_Warrior_Male.prefab
+  artifactKey: Guid(8cd752dc36d412b4bba2efd06775153a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/Character_Goblin_Warrior_Male.prefab using Guid(8cd752dc36d412b4bba2efd06775153a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b35cbe06642200f76d9b69101c00c9be') in 0.026480 seconds 
+  Import took 0.032190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/Character_Ghost_01.prefab
+  artifactKey: Guid(99cdb7462838a6342bd2288456e75888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/Character_Ghost_01.prefab using Guid(99cdb7462838a6342bd2288456e75888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2e6293b00c5223db4583417a2b1ca46') in 0.029745 seconds 
+  Import took 0.033965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/ScaleFixedCharacters/Character_Hero_Knight_Female.prefab
+  artifactKey: Guid(45608daf8c357ac4883238b3247d64b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/ScaleFixedCharacters/Character_Hero_Knight_Female.prefab using Guid(45608daf8c357ac4883238b3247d64b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '760ec4a3213a26ed0a66af6dc5ead99a') in 0.032687 seconds 
+  Import took 0.037728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_CyborgNinja_01.prefab
+  artifactKey: Guid(9173cd04cd0fa7d478bdcc707b3aab84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_CyborgNinja_01.prefab using Guid(9173cd04cd0fa7d478bdcc707b3aab84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68a2390a896de0b9f754a1e7c9f94f28') in 0.049283 seconds 
+  Import took 0.055440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_CyberPunk_Male_01.prefab
+  artifactKey: Guid(c9751ce6917e9a34fa65260bace8c38a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_CyberPunk_Male_01.prefab using Guid(c9751ce6917e9a34fa65260bace8c38a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05706935f5c4b6332625b73d694e4f05') in 0.046023 seconds 
+  Import took 0.051042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_Junky_Male_01.prefab
+  artifactKey: Guid(5f7f35f5ee9d7fa4e9139ee56900d398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_Junky_Male_01.prefab using Guid(5f7f35f5ee9d7fa4e9139ee56900d398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '409f17a775443fa78df44a13d27da775') in 0.045282 seconds 
+  Import took 0.051371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_Android_Female_01.prefab
+  artifactKey: Guid(35b2f23f35e445a4ab2e58c5310d87bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_Android_Female_01.prefab using Guid(35b2f23f35e445a4ab2e58c5310d87bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a128fe385103e8d0e5b464a6dea590e') in 0.047388 seconds 
+  Import took 0.052473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/ScaleFixedCharacters/Character_Ghost_02.prefab
+  artifactKey: Guid(d2b11d59c34b8794a916e2e3adca29b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/ScaleFixedCharacters/Character_Ghost_02.prefab using Guid(d2b11d59c34b8794a916e2e3adca29b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fec5b1450a21c3499d138e1384ee6128') in 0.025551 seconds 
+  Import took 0.030013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/Chr_Attach/SM_Chr_Attach_Teen_Female_Glasses_01.prefab
+  artifactKey: Guid(ed65c035edba3b042afa0f2d9254e02e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/Chr_Attach/SM_Chr_Attach_Teen_Female_Glasses_01.prefab using Guid(ed65c035edba3b042afa0f2d9254e02e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '865b715f2070cd6a5cb3f3d4c24dd639') in 0.050910 seconds 
+  Import took 0.058459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/Character_Hero_Knight_Female.prefab
+  artifactKey: Guid(11ffba29df14c054aa5a2695b18e9f59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/Character_Hero_Knight_Female.prefab using Guid(11ffba29df14c054aa5a2695b18e9f59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b6868893793a11043d95a53e11dd35a') in 0.023182 seconds 
+  Import took 0.027287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_CyborgNinja_01.prefab
+  artifactKey: Guid(1b20caf01959ecb409333fb9aa0b81da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_CyborgNinja_01.prefab using Guid(1b20caf01959ecb409333fb9aa0b81da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89a955dd254d94d8e9617c0464f57c3b') in 0.054922 seconds 
+  Import took 0.059963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_Monk_Male_01.prefab
+  artifactKey: Guid(fc62b962a6a22f148b707e207ab06996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_Monk_Male_01.prefab using Guid(fc62b962a6a22f148b707e207ab06996) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75cb22365e05d2f89fe1494414f1c06c') in 0.055773 seconds 
+  Import took 0.062740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/Character_Goblin_Shaman.prefab
+  artifactKey: Guid(70ad07d06832dba42a3bb244ab822fd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/Character_Goblin_Shaman.prefab using Guid(70ad07d06832dba42a3bb244ab822fd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f60718758e152e3794647a1ca2f48b34') in 0.025155 seconds 
+  Import took 0.029704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/ScaleFixedCharacters/Character_Goblin_Male.prefab
+  artifactKey: Guid(7ee713c854e6be5469a1372d66b7bc40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/ScaleFixedCharacters/Character_Goblin_Male.prefab using Guid(7ee713c854e6be5469a1372d66b7bc40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee022e41b8e27a242fdc1f4106257402') in 0.035100 seconds 
+  Import took 0.040402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_CyberPunk_Male_01.prefab
+  artifactKey: Guid(4493b9786df76d64fad99c1e9ac91ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_CyberPunk_Male_01.prefab using Guid(4493b9786df76d64fad99c1e9ac91ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe49dc76c396a1a6a3f001af7cd9802a') in 0.042611 seconds 
+  Import took 0.047760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/Chr_Attach/SM_Chr_Attach_Teen_Female_Hair_01.prefab
+  artifactKey: Guid(7102d34f3ecd4e1428dce761245bd09a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/Chr_Attach/SM_Chr_Attach_Teen_Female_Hair_01.prefab using Guid(7102d34f3ecd4e1428dce761245bd09a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a68477d17b0ff886f0eeef1c54acf860') in 0.043059 seconds 
+  Import took 0.048822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_Alien_Male_01.prefab
+  artifactKey: Guid(9d6944272ca1ef448a6c08e77fec10f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_Alien_Male_01.prefab using Guid(9d6944272ca1ef448a6c08e77fec10f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a9cbaafcb3d64a1d36e075ded83f576') in 0.047731 seconds 
+  Import took 0.053095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/ScaleFixedCharacters/Character_Goblin_Warrior_Male.prefab
+  artifactKey: Guid(c4e3b5d3572bced46ab0fdb482897812) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/ScaleFixedCharacters/Character_Goblin_Warrior_Male.prefab using Guid(c4e3b5d3572bced46ab0fdb482897812) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba4de75fdef931f19435bb3923e3ae6b') in 0.027099 seconds 
+  Import took 0.031074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_Medical_Male_01.prefab
+  artifactKey: Guid(57fc8dbaad512514aa9683fd9261d4a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_Medical_Male_01.prefab using Guid(57fc8dbaad512514aa9683fd9261d4a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e9e3ae9cdd2e4c7a9574ee5038729c2') in 0.042144 seconds 
+  Import took 0.047685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_Alien_Male_02.prefab
+  artifactKey: Guid(9724bf37757803a4997ef69d34974e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_Alien_Male_02.prefab using Guid(9724bf37757803a4997ef69d34974e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86ce6db2ddd424801a22a172a255f185') in 0.042932 seconds 
+  Import took 0.048969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/Character_Goblin_Male.prefab
+  artifactKey: Guid(2ef59bc5d753ebe4490b708befe65999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/Character_Goblin_Male.prefab using Guid(2ef59bc5d753ebe4490b708befe65999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3be4a91e374ed8d07c5270444b80d83') in 0.020381 seconds 
+  Import took 0.024331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Models/SM_Chr_Attach_Teen_Female_Glasses_01.fbx
+  artifactKey: Guid(3db84c0cd9b7e5442a5b69bc01b21c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Models/SM_Chr_Attach_Teen_Female_Glasses_01.fbx using Guid(3db84c0cd9b7e5442a5b69bc01b21c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df766fe0e91ee974a4dcbb62eadb7f71') in 0.016082 seconds 
+  Import took 0.019624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Models/SM_Chr_Attach_Teen_Female_Hair_01.fbx
+  artifactKey: Guid(56d010c61f84f7643ba2ef2dd5d53533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Models/SM_Chr_Attach_Teen_Female_Hair_01.fbx using Guid(56d010c61f84f7643ba2ef2dd5d53533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b10a6e8c0ebc3fcc70791edc7d0ce0b') in 0.018444 seconds 
+  Import took 0.021662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_Android_Female_01.prefab
+  artifactKey: Guid(c071869dabd01174ba88c8f43a9cc9be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_Android_Female_01.prefab using Guid(c071869dabd01174ba88c8f43a9cc9be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d7fea2eae2c8b0032a7fc7347a9e3d5') in 0.044080 seconds 
+  Import took 0.049887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_Hacker_Female_01.prefab
+  artifactKey: Guid(200bc6ccceeac474080a49c821b89775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_Hacker_Female_01.prefab using Guid(200bc6ccceeac474080a49c821b89775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59e4a0376fcdbf93403ed00f693ead55') in 0.042334 seconds 
+  Import took 0.047818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_Garbage_Male_01.prefab
+  artifactKey: Guid(9d49ce5feb2bfd245a9e7f8e7a33026f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_Garbage_Male_01.prefab using Guid(9d49ce5feb2bfd245a9e7f8e7a33026f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0db61a18d18ac4a790903cfed635d3fd') in 0.045344 seconds 
+  Import took 0.050606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_Cyber_Female_01.prefab
+  artifactKey: Guid(8b2f7c67154f424439e862a1239f81ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_Cyber_Female_01.prefab using Guid(8b2f7c67154f424439e862a1239f81ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7f41c9b573b6e608328fcddfe94e00c') in 0.041825 seconds 
+  Import took 0.046746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/ScaleFixedCharacters/Character_Goblin_Warrior_Female.prefab
+  artifactKey: Guid(851e8547e58372347b1fc5cbc7bf3930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/ScaleFixedCharacters/Character_Goblin_Warrior_Female.prefab using Guid(851e8547e58372347b1fc5cbc7bf3930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fa97de1b876f6d3dd31f6da98f4ac2b') in 0.028255 seconds 
+  Import took 0.033365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/ScaleFixedCharacters/Character_Goblin_WarChief.prefab
+  artifactKey: Guid(9877270705d01b540aeaa38895b9f95b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/ScaleFixedCharacters/Character_Goblin_WarChief.prefab using Guid(9877270705d01b540aeaa38895b9f95b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf08646c67bca77c578640ba17e63f0b') in 0.031152 seconds 
+  Import took 0.036203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/Character_Goblin_Warrior_Female.prefab
+  artifactKey: Guid(9a6b87430c6b2684aa9c1d4616d38a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/Character_Goblin_Warrior_Female.prefab using Guid(9a6b87430c6b2684aa9c1d4616d38a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9afa00abd234078c8824fcc4d7909f8') in 0.021781 seconds 
+  Import took 0.025589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_Cop_01.prefab
+  artifactKey: Guid(80a5aa5d3c514d842841d031ae24d8e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_Cop_01.prefab using Guid(80a5aa5d3c514d842841d031ae24d8e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2339c3af0cc48b11915b7deba7ae451c') in 0.040719 seconds 
+  Import took 0.046252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Models/SM_Chr_Attach_Canteen_01.fbx
+  artifactKey: Guid(d9a32b504338db14ba508566739518ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Models/SM_Chr_Attach_Canteen_01.fbx using Guid(d9a32b504338db14ba508566739518ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94105048a948a0cafc527b4f9fadecf5') in 0.029106 seconds 
+  Import took 0.033229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_Augmented_Male_01.prefab
+  artifactKey: Guid(6f94caaacaf56ed44b13c6e0737ed662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_Augmented_Male_01.prefab using Guid(6f94caaacaf56ed44b13c6e0737ed662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0b9a020345ccf1cb1f96cfb4c159cab') in 0.043894 seconds 
+  Import took 0.049044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_Cyber_Female_01.prefab
+  artifactKey: Guid(6b3fff6a0afe72545a41df9afbe304a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_Cyber_Female_01.prefab using Guid(6b3fff6a0afe72545a41df9afbe304a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62e49df4048d1c5e63779e731150afbe') in 0.042371 seconds 
+  Import took 0.047443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_Monk_Male_01.prefab
+  artifactKey: Guid(2660028b03df0864c97c559f312915ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_Monk_Male_01.prefab using Guid(2660028b03df0864c97c559f312915ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3d80353ad7aa5fe702f2304ed49b9aa') in 0.040502 seconds 
+  Import took 0.045904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/Character_Goblin_WarChief.prefab
+  artifactKey: Guid(388fa61abd880a549864058f895c8045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/Character_Goblin_WarChief.prefab using Guid(388fa61abd880a549864058f895c8045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '139d2b31ed9f7e26f99ceb12fcb61736') in 0.021616 seconds 
+  Import took 0.025303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/ScaleFixedCharacters/Character_Goblin_Shaman.prefab
+  artifactKey: Guid(7161ed0803b6af44eba14325b62837de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/ScaleFixedCharacters/Character_Goblin_Shaman.prefab using Guid(7161ed0803b6af44eba14325b62837de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3309ecc048ae4b7317692189665b6f13') in 0.029360 seconds 
+  Import took 0.034022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_Hacker_Female_01.prefab
+  artifactKey: Guid(aad8348bab0cb854f83377110195a3bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_Hacker_Female_01.prefab using Guid(aad8348bab0cb854f83377110195a3bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a36c6e3503cfa8cda3d679eac4285a0') in 0.044351 seconds 
+  Import took 0.050757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_Garbage_Male_01.prefab
+  artifactKey: Guid(84a843da64c076b4487b30025c0237eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_Garbage_Male_01.prefab using Guid(84a843da64c076b4487b30025c0237eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5eb8158c77d782bd09899cde6189958d') in 0.083378 seconds 
+  Import took 0.089349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_Cyber_Male_01.prefab
+  artifactKey: Guid(0f9ccd71741ee50488626ad04bd719f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/FixedScaleCharacters/Character_Cyber_Male_01.prefab using Guid(0f9ccd71741ee50488626ad04bd719f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b008b2d74409198b96b331fa42a17f8') in 0.043313 seconds 
+  Import took 0.048985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/Chr_Attach/SM_Chr_Attach_Teen_Male_Hat_01.prefab
+  artifactKey: Guid(36ba4215d6821874888242285a932912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/Chr_Attach/SM_Chr_Attach_Teen_Male_Hat_01.prefab using Guid(36ba4215d6821874888242285a932912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '885f0bc169cf95aadcf4abeb511e32ab') in 0.045406 seconds 
+  Import took 0.051309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_Hologram_Female_01.prefab
+  artifactKey: Guid(3470766f22e216142aa097c5eaa5a1c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Characters/Character_Hologram_Female_01.prefab using Guid(3470766f22e216142aa097c5eaa5a1c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9c56127b515b72fec743e228646bd00') in 0.045898 seconds 
+  Import took 0.051157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/Chr_Attach/SM_Chr_Attach_Canteen_01.prefab
+  artifactKey: Guid(33ce22dcb204e8b40af1a4769bd33ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters/Chr_Attach/SM_Chr_Attach_Canteen_01.prefab using Guid(33ce22dcb204e8b40af1a4769bd33ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a6b7a5ace13b4624d7ffe27997ffb56') in 0.044593 seconds 
+  Import took 0.049978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/Character_Ghost_02.prefab
+  artifactKey: Guid(5eb5272116a5d0548840121eb9bb813d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonDungeon/Prefabs/Characters/Character_Ghost_02.prefab using Guid(5eb5272116a5d0548840121eb9bb813d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04a7981a719e22e85f4b9c22f1e08e0f') in 0.023262 seconds 
+  Import took 0.028549 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007284 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.11 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.078 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1078ms)
+		BeginReloadAssembly (115ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (907ms)
+			LoadAssemblies (74ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (243ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (441ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (68ms)
+				ProcessInitializeOnLoadAttributes (351ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1444 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.5 MB.
+System memory in use after: 98.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1907.
+Total: 2.546800 ms (FindLiveObjects: 0.124900 ms CreateObjectMapping: 0.045400 ms MarkObjects: 2.358100 ms  DeleteObjects: 0.017500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 388.458605 seconds.
+  path: Assets/Resources/Animations/Player.controller
+  artifactKey: Guid(81a8137026662c840ba7d085240e29e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/Player.controller using Guid(81a8137026662c840ba7d085240e29e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7816b43a2fcbc46519d8cd1c9d0825f') in 0.017907 seconds 
+  Import took 0.022159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.181668 seconds.
+  path: Assets/Resources/Animations/Player
+  artifactKey: Guid(191ece3d14ee8bc4aa41cee22a92bce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/Player using Guid(191ece3d14ee8bc4aa41cee22a92bce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dfdba7db167b895c2b44a14368da6e0') in 0.003055 seconds 
+  Import took 0.006642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.040069 seconds.
+  path: Assets/Resources/Animations/Player/Upper.mask
+  artifactKey: Guid(9299ca9f2b81ff544b1614540b99de9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/Player/Upper.mask using Guid(9299ca9f2b81ff544b1614540b99de9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28b3e7350adfb276cf07de913978e9df') in 0.009248 seconds 
+  Import took 0.012868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.608176 seconds.
+  path: Assets/Resources/Animations/Player/Upper 1.mask
+  artifactKey: Guid(67a909e2168a77948acc0183847badd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/Player/Upper 1.mask using Guid(67a909e2168a77948acc0183847badd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03a33a61f605674b745f19975146ab5d') in 0.007382 seconds 
+  Import took 0.010825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.696940 seconds.
+  path: Assets/Resources/Animations/Player/Lower.mask
+  artifactKey: Guid(67a909e2168a77948acc0183847badd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/Player/Lower.mask using Guid(67a909e2168a77948acc0183847badd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '844e289ae14ce7fe441e48ecd8c7aa5b') in 0.007142 seconds 
+  Import took 0.010728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.414621 seconds.
+  path: Assets/Resources/Animations/Player/Player.controller
+  artifactKey: Guid(81a8137026662c840ba7d085240e29e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/Player/Player.controller using Guid(81a8137026662c840ba7d085240e29e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6ab95ae6de45ef13d998ae0ae182b93') in 0.003030 seconds 
+  Import took 0.005950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.242126 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/AvatarMasks/BasicMotionsBothHandFingersMask.mask
+  artifactKey: Guid(2a8a5229de8d66242bba41b9113b1aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/AvatarMasks/BasicMotionsBothHandFingersMask.mask using Guid(2a8a5229de8d66242bba41b9113b1aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f3b566e1976f835b0efbc951c4cb38d') in 0.010014 seconds 
+  Import took 0.013940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/AvatarMasks/BasicMotionsLeftHandFingersMask.mask
+  artifactKey: Guid(599830cd02d06a140a2d89347673720b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/AvatarMasks/BasicMotionsLeftHandFingersMask.mask using Guid(599830cd02d06a140a2d89347673720b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20035a72ba057d3229df326992d96cf9') in 0.007772 seconds 
+  Import took 0.012020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/AvatarMasks/BasicMotionsBothHandFingersMask.mask
+  artifactKey: Guid(2a8a5229de8d66242bba41b9113b1aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/AvatarMasks/BasicMotionsBothHandFingersMask.mask using Guid(2a8a5229de8d66242bba41b9113b1aa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f3b566e1976f835b0efbc951c4cb38d') in 0.004415 seconds 
+  Import took 0.008007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/AvatarMasks/BasicMotionsRightHandFingersMask.mask
+  artifactKey: Guid(eec14c98e24f9f44fb7db2ac749caa41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/AvatarMasks/BasicMotionsRightHandFingersMask.mask using Guid(eec14c98e24f9f44fb7db2ac749caa41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78b4ea0ba19dd449382b33f569b21449') in 0.007641 seconds 
+  Import took 0.011487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.174428 seconds.
+  path: Assets/Resources/Animations/Player/PlayerLower.mask
+  artifactKey: Guid(67a909e2168a77948acc0183847badd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/Player/PlayerLower.mask using Guid(67a909e2168a77948acc0183847badd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbc343d4ef53ebd11fc6277afae661ae') in 0.009364 seconds 
+  Import took 0.012579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.276685 seconds.
+  path: Assets/Resources/Animations/Player/PlayerUpper.mask
+  artifactKey: Guid(9299ca9f2b81ff544b1614540b99de9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/Player/PlayerUpper.mask using Guid(9299ca9f2b81ff544b1614540b99de9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c61c81689eebbcd81245e11ce35cb34e') in 0.008088 seconds 
+  Import took 0.011646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 261.774535 seconds.
+  path: Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Idles
+  artifactKey: Guid(99b531c8964d97245a8f67495e2a1a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/Kevin Iglesias/Basic Motions/Animations/Idles using Guid(99b531c8964d97245a8f67495e2a1a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cb614fcbdc851d950ae5b7bde250f6b') in 0.008434 seconds 
+  Import took 0.012690 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004938 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.97 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.091 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1091ms)
+		BeginReloadAssembly (103ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (31ms)
+		EndReloadAssembly (930ms)
+			LoadAssemblies (75ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (272ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (449ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (75ms)
+				ProcessInitializeOnLoadAttributes (356ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1444 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.6 MB.
+System memory in use after: 98.7 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1909.
+Total: 2.531600 ms (FindLiveObjects: 0.131900 ms CreateObjectMapping: 0.044300 ms MarkObjects: 2.340800 ms  DeleteObjects: 0.013800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004842 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 3.15 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.137 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1137ms)
+		BeginReloadAssembly (115ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (30ms)
+		EndReloadAssembly (967ms)
+			LoadAssemblies (92ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (275ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (441ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (112ms)
+				ProcessInitializeOnLoadAttributes (307ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1444 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.6 MB.
+System memory in use after: 98.7 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1911.
+Total: 2.683300 ms (FindLiveObjects: 0.126000 ms CreateObjectMapping: 0.044200 ms MarkObjects: 2.494900 ms  DeleteObjects: 0.017400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004921 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 3.23 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.128 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1128ms)
+		BeginReloadAssembly (101ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (28ms)
+		EndReloadAssembly (967ms)
+			LoadAssemblies (83ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (263ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (487ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (110ms)
+				ProcessInitializeOnLoadAttributes (354ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.06 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1444 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.6 MB.
+System memory in use after: 98.7 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1913.
+Total: 3.159200 ms (FindLiveObjects: 0.153900 ms CreateObjectMapping: 0.043300 ms MarkObjects: 2.942600 ms  DeleteObjects: 0.018600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008719 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.958 seconds
+Domain Reload Profiling:
+	ReloadAssembly (958ms)
+		BeginReloadAssembly (111ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (31ms)
+		EndReloadAssembly (774ms)
+			LoadAssemblies (89ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (250ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (33ms)
+			SetupLoadedEditorAssemblies (322ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (64ms)
+				ProcessInitializeOnLoadAttributes (241ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1444 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.6 MB.
+System memory in use after: 98.7 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1915.
+Total: 2.629100 ms (FindLiveObjects: 0.129300 ms CreateObjectMapping: 0.039100 ms MarkObjects: 2.447400 ms  DeleteObjects: 0.012600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004842 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.092 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1092ms)
+		BeginReloadAssembly (105ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (28ms)
+		EndReloadAssembly (926ms)
+			LoadAssemblies (84ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (249ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (444ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (67ms)
+				ProcessInitializeOnLoadAttributes (353ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1444 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.6 MB.
+System memory in use after: 98.7 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1917.
+Total: 2.574900 ms (FindLiveObjects: 0.139000 ms CreateObjectMapping: 0.043500 ms MarkObjects: 2.377800 ms  DeleteObjects: 0.013700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
