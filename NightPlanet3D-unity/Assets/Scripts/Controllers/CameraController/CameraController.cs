@@ -11,11 +11,13 @@ public class CameraController : MonoBehaviour
         Player_Follow,
         Player_Observe,
         Objects,
+        FPS,
     }
 
     public CameraObject camObject = new CameraObject();
     public CameraFollow camFollow = new CameraFollow();
     public CameraObserve camObserve = new CameraObserve();
+    public CameraFPS camFPS = new CameraFPS();
     public static FilmType target = FilmType.Unknown;
     private bool isInit = false;
 
@@ -25,6 +27,7 @@ public class CameraController : MonoBehaviour
         camObject.Init(transform);
         camFollow.Init(transform);
         camObserve.Init(transform);
+        camFPS.Init(transform);
     }
 
     private void Update()
@@ -47,6 +50,10 @@ public class CameraController : MonoBehaviour
 
             case FilmType.Objects:
                 camObject.OnUpdate();
+                break;
+
+            case FilmType.FPS:
+                camFPS.OnUpdate();
                 break;
 
             default:

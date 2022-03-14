@@ -6,7 +6,7 @@ public class CameraFollow : CameraBase
 {
     //private readonly Vector3 addFocus = new Vector3(0, 2f, 3f);
     //private readonly Vector3 addCamPos = new Vector3(5f, 1f, 0.5f);
-    private readonly Vector3 addFocus = new Vector3(3f, 2f, 0f);
+    private readonly Vector3 addFocus = new Vector3(3f, 3f, 0f);
     private readonly Vector3 addCamPos = new Vector3(0.5f, 1f, -5f);
 
     public override void Init(Transform _cam)

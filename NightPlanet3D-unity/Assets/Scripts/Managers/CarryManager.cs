@@ -27,6 +27,21 @@ public class CarryManager : InteractionBase<Rigidbody>
         return rb;
     }
 
+    public void PushAllCarry()
+    {
+        Init();
+        FallBoxTrigger[] objs = UnityEngine.GameObject.FindObjectsOfType<FallBoxTrigger>();
+        foreach (FallBoxTrigger obj in objs)
+        {
+            Rigidbody rb = obj.gameObject.GetOrAddComponent<Rigidbody>();
+            rb.constraints = RigidbodyConstraints.FreezePositionX | RigidbodyConstraints.FreezeRotation;
+            rb.drag = 1f;
+            rb.transform.SetParent(box);
+            obj.name += idx++;
+            objDict.Add(obj.name, rb);
+        }
+    }
+
     public override void Clear()
     {
         base.Clear();

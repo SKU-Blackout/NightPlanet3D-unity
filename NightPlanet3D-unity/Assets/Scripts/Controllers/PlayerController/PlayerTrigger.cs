@@ -10,18 +10,22 @@ public class PlayerTrigger : MonoBehaviour
             return;
 
         CameraElement camElement = GameManager.Camera.Get(other.name);
+        PlayerMovement.style = camElement.moveStyle;
         
-        if(camElement.type == CameraController.FilmType.Player_Follow)
+        if(camElement.camType == CameraController.FilmType.Player_Follow)
             GameManager.Camera.cam.camFollow.SetTarget(transform);
-        else if(camElement.type == CameraController.FilmType.Player_Observe)
+        else if(camElement.camType == CameraController.FilmType.Player_Observe)
             GameManager.Camera.cam.camObserve.SetTarget(transform, camElement.camPos);
+        else if(camElement.camType == CameraController.FilmType.FPS)
+            GameManager.Camera.cam.camFPS.SetTarget(transform);
 
+        other.gameObject.SetActive(false);
     }
 
     private void OnTriggerExit(Collider other)
     {
-        if (other.gameObject.layer == 11)
-            PlayerMovement.style = PlayerMovement.MoveStyle.Horizontal;
+        //if (other.gameObject.layer == 11)
+        //    PlayerMovement.style = PlayerMovement.MoveStyle.Horizontal;
     }
 
     private bool LayerCheck(Collider other)//return true면 TriggerEnter에서 다음 코드 생략
@@ -29,7 +33,7 @@ public class PlayerTrigger : MonoBehaviour
         switch(other.gameObject.layer)
         {
             case 11:
-                PlayerMovement.style = PlayerMovement.MoveStyle.Direction16;
+                //PlayerMovement.style = PlayerMovement.MoveStyle.Rev_16;
                 return false;
 
             case 12:

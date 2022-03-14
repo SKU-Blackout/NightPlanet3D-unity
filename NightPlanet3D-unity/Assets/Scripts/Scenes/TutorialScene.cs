@@ -13,10 +13,10 @@ public class TutorialScene : BaseScene
         SceneType = Define.Scene.Tutorial;
 
         GameObject player = GameManager.Resource.Instantiate("Player");//플레이어 생성
-        player.transform.position = new Vector3(0, 0, -15f);
+        player.transform.position = new Vector3(-106, 1, -15f);
         PlayerController playerCtrl = player.GetOrAddComponent<PlayerController>();//PlayerController컴포넌트 부착
-        //PlayerMovement.style = PlayerMovement.MoveStyle.Horizontal;//움직임 수평이동
-        PlayerMovement.style = PlayerMovement.MoveStyle.Direction16;
+        
+        PlayerMovement.style = PlayerMovement.MoveStyle.Vertical;
         objList.Add(player);//리스트에 추가
 
         //GameObject level = GameManager.Resource.Instantiate("Tutorial_Level");//튜토리얼 맵 생성
@@ -24,15 +24,24 @@ public class TutorialScene : BaseScene
 
         //GameManager.Item.PushAll();//레벨디자인에 있는 아이템들 미리 Dictoinary에 보관
         //GameManager.Trigger.PushAll();//레벨디자인에 있는 트리거들 미리 Dictoinary에 보관
-        
+        GameManager.Carry.PushAllCarry();
+
 
         //StartCoroutine("Co_Intro", player);//바로 아래 코루틴 시작
+
+        CameraElement[] elements = FindObjectsOfType<CameraElement>();
+        foreach (CameraElement element in elements)
+            GameManager.Camera.Push(element);//카메라 매니저의 Dictionary에 저장
+
 
         GameManager.Input.userInput -= GameManager.Input.UserInput;
         GameManager.Input.userInput += GameManager.Input.UserInput;//움직임 가능
 
         GameManager.Camera.Init();
         GameManager.Camera.cam.camFollow.SetTarget(player.transform);//기본 카메라로 설정
+        GameManager.Camera.cam.camFollow.SetSpeed(0.5f, 5f);
+
+        //GameManager.Camera.cam.camFPS.SetTarget(player.transform);
     }
 
     private IEnumerator Co_Intro(GameObject player)

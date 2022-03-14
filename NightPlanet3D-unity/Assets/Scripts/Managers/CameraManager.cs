@@ -20,8 +20,9 @@ public class CameraManager
     public void Push(CameraElement element)//CameraElement컴포넌트를 지닌 오브젝트들을 Type에 따라 Dictionary or List로 분류
     {
         Init();
-        switch(element.type)
+        switch(element.camType)
         {
+            case CameraController.FilmType.FPS:
             case CameraController.FilmType.Player_Follow:
             case CameraController.FilmType.Player_Observe:
                 elementDict.Add(element.name, element);//Follow와 Observe는 Dictionary행

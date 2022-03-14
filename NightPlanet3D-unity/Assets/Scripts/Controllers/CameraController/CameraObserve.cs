@@ -8,7 +8,7 @@ public class CameraObserve : CameraBase
     public override void Init(Transform _cam)
     {
         base.Init(_cam);
-        SetSpeed(1f, 1f);
+        SetSpeed(1f, 4f);
     }
 
     public void OnUpdate()

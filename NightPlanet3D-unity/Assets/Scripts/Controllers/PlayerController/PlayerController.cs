@@ -15,7 +15,7 @@ public class PlayerController : MonoBehaviour
         movement.Init(transform);
         ani.Init(GetComponent<Animator>());//애니메이션 컴포넌트 전달
         ray.Init(transform);
-        //ray.carry.Init(transform, ani,movement);
+        ray.carry.Init(transform, ani,movement);
         gameObject.AddComponent<PlayerTrigger>();
 
         GameManager.Input.keyAction -= OnKeyBoard;
