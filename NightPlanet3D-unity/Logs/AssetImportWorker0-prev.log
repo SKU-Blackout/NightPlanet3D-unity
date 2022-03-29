@@ -15,11 +15,11 @@ C:/GitHub/NightPlanet3D-unity/NightPlanet3D-unity
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-57856
+60682
 Successfully changed project path to: C:/GitHub/NightPlanet3D-unity/NightPlanet3D-unity
 C:/GitHub/NightPlanet3D-unity/NightPlanet3D-unity
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 149.66 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 153.47 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.4f1 (0abb6314276a)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
@@ -35,141 +35,1051 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56992
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56720
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001751 seconds.
+Registered in 0.001722 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 157.74 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 162.85 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
 - Completed reload, in  1.124 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.005411 seconds.
+Registered in 0.004922 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.91 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 1.75 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.976 seconds
+- Completed reload, in  1.011 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
 Refreshing native plugins compatible for Editor in 1.71 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1457 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 79.9 MB.
+System memory in use before: 80.0 MB.
 System memory in use after: 80.0 MB.
 
 Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1898.
-Total: 6.950700 ms (FindLiveObjects: 0.431300 ms CreateObjectMapping: 0.171400 ms MarkObjects: 6.119100 ms  DeleteObjects: 0.225900 ms)
+Total: 2.757900 ms (FindLiveObjects: 0.559000 ms CreateObjectMapping: 0.353400 ms MarkObjects: 1.735700 ms  DeleteObjects: 0.108800 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Apartment_01.prefab
-  artifactKey: Guid(0c045340be0090e43a49114a88f6597d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Apartment_01.prefab using Guid(0c045340be0090e43a49114a88f6597d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da3eb3f3cc9eb46a8420d062a6e39f48') in 0.232632 seconds
-  Import took 0.244847 seconds .
+  path: Assets/Scenes/_PrivateTestScenes/Stage2-Main.unity
+  artifactKey: Guid(ea0e046da42dc414098b4b0472c447bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/_PrivateTestScenes/Stage2-Main.unity using Guid(ea0e046da42dc414098b4b0472c447bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e214b79d5042809e338d033ecfd96872') in 0.012077 seconds
+  Import took 0.016633 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000324 seconds.
-  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings
-  artifactKey: Guid(d70d2a97fa38db24d8f888184ff28951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings using Guid(d70d2a97fa38db24d8f888184ff28951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebb599ab7d30383c82cb926880132f78') in 0.010633 seconds
-  Import took 0.014137 seconds .
+  Time since last request: 0.000227 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(029dd626273590a48af4c7b01832ab2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(029dd626273590a48af4c7b01832ab2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1348665c57c24101b2a4e2bd43b39da2') in 0.005290 seconds
+  Import took 0.008593 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 25.912085 seconds.
-  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_AutoRepair_01.prefab
-  artifactKey: Guid(77c2e2e401f5ad04ea0f6853a3f3558d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_AutoRepair_01.prefab using Guid(77c2e2e401f5ad04ea0f6853a3f3558d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6751f8737fe74bf8054b4622a291f075') in 0.145106 seconds
-  Import took 0.150285 seconds .
+  Time since last request: 207.251001 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Generic
+  artifactKey: Guid(759ade9b7d529ca439c7920441740acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Generic using Guid(759ade9b7d529ca439c7920441740acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e937851c055b2dcc9fe3f1d76415a2a') in 0.010324 seconds
+  Import took 0.013278 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 34.104406 seconds.
-  path: Assets/Scenes/MarketAssetsScenes/PolygonApocalypse/Demo_City_StandardSettings.lighting
-  artifactKey: Guid(b69871ecedc149d4793f43af4102f6c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/MarketAssetsScenes/PolygonApocalypse/Demo_City_StandardSettings.lighting using Guid(b69871ecedc149d4793f43af4102f6c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
- -> (artifact id: 'a77d0ab31b5a88ee4f7b486a99401500') in 0.008548 seconds
-  Import took 0.013381 seconds .
+  Time since last request: 0.312646 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Item
+  artifactKey: Guid(0eceef193e688b54d88742aece0503e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Item using Guid(0eceef193e688b54d88742aece0503e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a47409a5111f00182415ce6281bd912') in 0.006577 seconds
+  Import took 0.010079 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.002741 seconds.
-  path: Assets/Scenes/MarketAssetsScenes/PolygonApocalypse/Demo_City_StandardSettings.lighting
-  artifactKey: Guid(b69871ecedc149d4793f43af4102f6c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/MarketAssetsScenes/PolygonApocalypse/Demo_City_StandardSettings.lighting using Guid(b69871ecedc149d4793f43af4102f6c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
- -> (artifact id: 'a77d0ab31b5a88ee4f7b486a99401500') in 0.002246 seconds
-  Import took 0.006105 seconds .
+  Time since last request: 0.340558 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Props
+  artifactKey: Guid(54d2f50e42c7cff45b663bcd9c45f0b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Props using Guid(54d2f50e42c7cff45b663bcd9c45f0b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef5ff18d8c7ad734d6fd4c210ebe09e5') in 0.006311 seconds
+  Import took 0.009486 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.280670 seconds.
-  path: Assets/Scenes/MarketAssetsScenes/PolygonApocalypse/Demo_City_Standard.unity
-  artifactKey: Guid(cf7c677bbb7aac345a7c35e4f1b92a36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/MarketAssetsScenes/PolygonApocalypse/Demo_City_Standard.unity using Guid(cf7c677bbb7aac345a7c35e4f1b92a36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16d74cd0e60204217bcee39f01b1f289') in 0.004985 seconds
-  Import took 0.008261 seconds .
+  Time since last request: 0.992371 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment
+  artifactKey: Guid(dad77c24ca7936b4eb34298959568868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Environment using Guid(dad77c24ca7936b4eb34298959568868) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '229e39aeebd8b9785915bf5654cfe448') in 0.005990 seconds
+  Import took 0.009639 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001553 seconds.
-  path: Assets/Scenes/MarketAssetsScenes/PolygonApocalypse/Demo_City_Standard.unity
-  artifactKey: Guid(cf7c677bbb7aac345a7c35e4f1b92a36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/MarketAssetsScenes/PolygonApocalypse/Demo_City_Standard.unity using Guid(cf7c677bbb7aac345a7c35e4f1b92a36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16d74cd0e60204217bcee39f01b1f289') in 0.002161 seconds
-  Import took 0.005614 seconds .
+  Time since last request: 0.315628 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/DeadBodies
+  artifactKey: Guid(9e5fe7cd3b70e1d4cb10824ea7c62aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/DeadBodies using Guid(9e5fe7cd3b70e1d4cb10824ea7c62aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b16ab6648fab416beed2f9e3805d4c65') in 0.006143 seconds
+  Import took 0.009733 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.386209 seconds.
-  path: Assets/Scenes/MarketAssetsScenes/PolygonApocalypse/Demo_Bunker.unity
-  artifactKey: Guid(9a9343b6258d265478953ae557b53a7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/MarketAssetsScenes/PolygonApocalypse/Demo_Bunker.unity using Guid(9a9343b6258d265478953ae557b53a7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10c23f6c210f0e6922e146c128ef5bd1') in 0.005308 seconds
-  Import took 0.008620 seconds .
+  Time since last request: 0.313937 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters
+  artifactKey: Guid(5537359876f4482469122bf9bf4d5685) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Characters using Guid(5537359876f4482469122bf9bf4d5685) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0b45e80636d6dbb4e68001ba387d0bd') in 0.005367 seconds
+  Import took 0.008665 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001009 seconds.
-  path: Assets/Scenes/MarketAssetsScenes/PolygonApocalypse/Demo_Bunker.unity
-  artifactKey: Guid(9a9343b6258d265478953ae557b53a7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/MarketAssetsScenes/PolygonApocalypse/Demo_Bunker.unity using Guid(9a9343b6258d265478953ae557b53a7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10c23f6c210f0e6922e146c128ef5bd1') in 0.002613 seconds
-  Import took 0.006758 seconds .
+  Time since last request: 6.629852 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Floor_Concrete_Rust_Open_01.prefab
+  artifactKey: Guid(751040382a689f1438b9d0bd173f7970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Floor_Concrete_Rust_Open_01.prefab using Guid(751040382a689f1438b9d0bd173f7970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4bcf211ad54dad663a7378e1e04bc3d') in 0.156247 seconds
+  Import took 0.161480 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.367210 seconds.
-  path: Assets/Scenes/MarketAssetsScenes/PolygonApocalypse/Demo_Building_Interior_Dressing.unity
-  artifactKey: Guid(713388c557c3dd84297afc8b4a7d8be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/MarketAssetsScenes/PolygonApocalypse/Demo_Building_Interior_Dressing.unity using Guid(713388c557c3dd84297afc8b4a7d8be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6894b0e59a525cfd3a1d06a8f7aad65') in 0.005167 seconds
-  Import took 0.008833 seconds .
+  Time since last request: 2.778955 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Beam_Concrete_01.prefab
+  artifactKey: Guid(3d10472407ff94041bdc429c2e43e7a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Beam_Concrete_01.prefab using Guid(3d10472407ff94041bdc429c2e43e7a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47a105f207cd96aa6ebe87ad86efc7bd') in 0.168407 seconds
+  Import took 0.174271 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000915 seconds.
-  path: Assets/Scenes/MarketAssetsScenes/PolygonApocalypse/Demo_Building_Interior_Dressing.unity
-  artifactKey: Guid(713388c557c3dd84297afc8b4a7d8be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/MarketAssetsScenes/PolygonApocalypse/Demo_Building_Interior_Dressing.unity using Guid(713388c557c3dd84297afc8b4a7d8be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6894b0e59a525cfd3a1d06a8f7aad65') in 0.002425 seconds
-  Import took 0.005989 seconds .
+  Time since last request: 0.015521 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Beam_Curved_Concrete_01.prefab
+  artifactKey: Guid(a4faa5d02dfd21f4eb943a3aaf455f48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Beam_Curved_Concrete_01.prefab using Guid(a4faa5d02dfd21f4eb943a3aaf455f48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2da4162605674ab674a3119a48a01d0b') in 0.078601 seconds
+  Import took 0.084650 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1925.188981 seconds.
-  path: Assets/Resources/MarketAssets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png
-  artifactKey: Guid(822402f846727b24890cc7d5f5430675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_01_A.png using Guid(822402f846727b24890cc7d5f5430675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2374db9952493c458d6fcc85d95160e') in 0.164615 seconds
-  Import took 0.169385 seconds .
+  Time since last request: 0.091506 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Beam_Curved_Wood_01.prefab
+  artifactKey: Guid(b5a5d3ef28890534ca99315ab7b9a6f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Beam_Curved_Wood_01.prefab using Guid(b5a5d3ef28890534ca99315ab7b9a6f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f06108148d635f9ad2d3ce2e167cfe9') in 0.047126 seconds
+  Import took 0.052518 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 9.527532 seconds.
-  path: Assets/Resources/MarketAssets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_02_A.png
-  artifactKey: Guid(2dcf5e56081e49c47ab257f79f5e5cca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Textures/PolygonApocalypse_Texture_02_A.png using Guid(2dcf5e56081e49c47ab257f79f5e5cca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b50a3506ec6829240abf795f4c12d94') in 0.045926 seconds
-  Import took 0.048852 seconds .
+  Time since last request: 0.137424 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Beam_End_Curved_Concrete_01.prefab
+  artifactKey: Guid(db57c043274921f47b7d2238258f5e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Beam_End_Curved_Concrete_01.prefab using Guid(db57c043274921f47b7d2238258f5e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c97093149723ffe3becdef2f76dacf2') in 0.045506 seconds
+  Import took 0.050762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.115508 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Beam_End_Curved_Wood_01.prefab
+  artifactKey: Guid(3051f3032744ce041a3aa54613bee80e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Beam_End_Curved_Wood_01.prefab using Guid(3051f3032744ce041a3aa54613bee80e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c4a12b9c7f0a1afa8ec5ac35e381d94') in 0.044948 seconds
+  Import took 0.050306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.245122 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Beam_Wood_01.prefab
+  artifactKey: Guid(8a8509e45c4974f4e889d9ebbc70f718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Beam_Wood_01.prefab using Guid(8a8509e45c4974f4e889d9ebbc70f718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aabfd45b66e58634c38d22bfc38e843') in 0.069536 seconds
+  Import took 0.075147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.406374 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Ceiling_Concrete_01.prefab
+  artifactKey: Guid(c988eb4e2578dd849a61402c03c5ee84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Ceiling_Concrete_01.prefab using Guid(c988eb4e2578dd849a61402c03c5ee84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f455b7426c74cd5a61cbbd49ceaa87ed') in 0.046011 seconds
+  Import took 0.052536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Ceiling_Concrete_02.prefab
+  artifactKey: Guid(b5c7f582e70be9a4e9029ce1f56e43b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Ceiling_Concrete_02.prefab using Guid(b5c7f582e70be9a4e9029ce1f56e43b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5af080b33dfdc7a26e50756cf1d2c223') in 0.043835 seconds
+  Import took 0.050612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Ceiling_Corrugated_01.prefab
+  artifactKey: Guid(e1724d9ae9121f54690330d6396a64ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Ceiling_Corrugated_01.prefab using Guid(e1724d9ae9121f54690330d6396a64ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b4279da406e97de30635fcb386d6e43') in 0.044835 seconds
+  Import took 0.050859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Ceiling_Vent_01.prefab
+  artifactKey: Guid(3e033d750be697f498eb1cafdb31fd5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Ceiling_Vent_01.prefab using Guid(3e033d750be697f498eb1cafdb31fd5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9e02573e1d33548df4c85439ef71cf6') in 0.044031 seconds
+  Import took 0.050825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Ceiling_Wood_01.prefab
+  artifactKey: Guid(4ba8e3a7f65eabb4480a8692eee3965f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Ceiling_Wood_01.prefab using Guid(4ba8e3a7f65eabb4480a8692eee3965f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80fe28e78395aaf29d0070fe9b5b92e2') in 0.045258 seconds
+  Import took 0.051112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Entrance_01.prefab
+  artifactKey: Guid(1adaff2ae3c885544bd8e9bd7b670c92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Entrance_01.prefab using Guid(1adaff2ae3c885544bd8e9bd7b670c92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75b698bbd1d13f4c59333a658130a5dc') in 0.045151 seconds
+  Import took 0.051615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Floor_Concrete_Open_01.prefab
+  artifactKey: Guid(0144b4b5b5a2b49458564d9bb18a711d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Floor_Concrete_Open_01.prefab using Guid(0144b4b5b5a2b49458564d9bb18a711d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bf9d25afea3d6f6ec81762b2ae9f235') in 0.047559 seconds
+  Import took 0.057209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.155675 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Floor_Container_01.prefab
+  artifactKey: Guid(48612e18fa52a8c40971a2c36c6fb181) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Floor_Container_01.prefab using Guid(48612e18fa52a8c40971a2c36c6fb181) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1d62fb01d3db319a6cb3e84c63f5da0') in 0.044333 seconds
+  Import took 0.051586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.439385 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Floor_Container_x2_01.prefab
+  artifactKey: Guid(56bc3a4e99434fc4685f7732cbba97b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Floor_Container_x2_01.prefab using Guid(56bc3a4e99434fc4685f7732cbba97b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c264f885b16c05e13b3b7e05315c8fbe') in 0.043314 seconds
+  Import took 0.049319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Floor_Pallet_01.prefab
+  artifactKey: Guid(252f18ecde3679f45b660f84c88bdf80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Floor_Pallet_01.prefab using Guid(252f18ecde3679f45b660f84c88bdf80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4420eda6f5a5fe9acb85f39fde0e4e5a') in 0.045289 seconds
+  Import took 0.051405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Floor_Pallet_02.prefab
+  artifactKey: Guid(84bddd3fa28955840889d72912f728ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Floor_Pallet_02.prefab using Guid(84bddd3fa28955840889d72912f728ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02a0465871a8f7f2c975cb4f2891644d') in 0.047453 seconds
+  Import took 0.053087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Floor_Stone_01.prefab
+  artifactKey: Guid(e26c904fc2ace3f478fb4b50f6340d53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Floor_Stone_01.prefab using Guid(e26c904fc2ace3f478fb4b50f6340d53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c57f2bbf1f8d88aab45159b87af5ad5b') in 0.047559 seconds
+  Import took 0.052890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.116311 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Floor_Stone_x2_01.prefab
+  artifactKey: Guid(09f6dcdf77c3c114e822909385b37310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Floor_Stone_x2_01.prefab using Guid(09f6dcdf77c3c114e822909385b37310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3579082cf9a3f5cdce9ca828774ea677') in 0.044627 seconds
+  Import took 0.050082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.166509 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Floor_Wood_01.prefab
+  artifactKey: Guid(41e3015ad2c64494487c154fcc51f8a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Floor_Wood_01.prefab using Guid(41e3015ad2c64494487c154fcc51f8a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dedf4b6741bf78799a466ddb213fa5dc') in 0.045543 seconds
+  Import took 0.051383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.150019 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Floor_Wood_02.prefab
+  artifactKey: Guid(8f98180107534f34b890c6b9dc9c6d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Floor_Wood_02.prefab using Guid(8f98180107534f34b890c6b9dc9c6d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1226b915a27794a7964359879c5dec0c') in 0.050448 seconds
+  Import took 0.057135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.441982 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Floor_Wood_03.prefab
+  artifactKey: Guid(1f826b31b8d6b834e82aa2ca0a8c22e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Floor_Wood_03.prefab using Guid(1f826b31b8d6b834e82aa2ca0a8c22e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b529c2fe7c84780e02c7573907d0094') in 0.045461 seconds
+  Import took 0.051372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Hatch_Round_01.prefab
+  artifactKey: Guid(11b6c5bc2c4fcbe499cfba9100a87524) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Hatch_Round_01.prefab using Guid(11b6c5bc2c4fcbe499cfba9100a87524) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aef043fe8150297423f7eea865f6d0b6') in 0.043378 seconds
+  Import took 0.048878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Ladder_01.prefab
+  artifactKey: Guid(5ab175780d70e8e45b3eea7e594620d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Ladder_01.prefab using Guid(5ab175780d70e8e45b3eea7e594620d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98c8c9e0752cb26d43387a9c4e8a9e9c') in 0.045484 seconds
+  Import took 0.050983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Ladder_End_01.prefab
+  artifactKey: Guid(426b075a7f762fa4b9ceff6651105eaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Ladder_End_01.prefab using Guid(426b075a7f762fa4b9ceff6651105eaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c56c51c9246230d84a119c0ff2b4172') in 0.043613 seconds
+  Import took 0.049242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Ladder_End_Rust_01.prefab
+  artifactKey: Guid(c5a83171eab137d4db44b53e8b5b4e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Ladder_End_Rust_01.prefab using Guid(c5a83171eab137d4db44b53e8b5b4e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9efc180948f9cd919d247fbcf196b876') in 0.043314 seconds
+  Import took 0.049897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Ladder_Rust_01.prefab
+  artifactKey: Guid(102907a72e1abd841be7f7cc54a76a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Ladder_Rust_01.prefab using Guid(102907a72e1abd841be7f7cc54a76a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc217455bedf854d22fd30e1fc0165cc') in 0.043262 seconds
+  Import took 0.049556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Stairs_Double_01.prefab
+  artifactKey: Guid(f0506d9df0b01704c9f190d477946c34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Stairs_Double_01.prefab using Guid(f0506d9df0b01704c9f190d477946c34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b65bc45c266aa5246efd78e611e432c6') in 0.052838 seconds
+  Import took 0.058675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Stairs_Single_01.prefab
+  artifactKey: Guid(3d9d3f8d49834d74a9a8ec1e806ef122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Stairs_Single_01.prefab using Guid(3d9d3f8d49834d74a9a8ec1e806ef122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc39b58cd5244f26f544959f96b36392') in 0.047273 seconds
+  Import took 0.052820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.225018 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Caution_Door_01.prefab
+  artifactKey: Guid(3a78a12e6c316664ba99a2de22c2ed64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Caution_Door_01.prefab using Guid(3a78a12e6c316664ba99a2de22c2ed64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcba5a969ad3621fa33b42ffb8bf31e8') in 0.052357 seconds
+  Import took 0.058107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.518037 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Concrete_Door_01.prefab
+  artifactKey: Guid(623e9ef7ccd815743894b9a606359df2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Concrete_Door_01.prefab using Guid(623e9ef7ccd815743894b9a606359df2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddb7396d4a4342aaad648477c9e1c8fa') in 0.118008 seconds
+  Import took 0.124538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.067382 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Concrete_x1_01.prefab
+  artifactKey: Guid(5f0025e958817e446aaed10a1ff0902f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Concrete_x1_01.prefab using Guid(5f0025e958817e446aaed10a1ff0902f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ea75ff269ada2bafc8aca7a21dfa318') in 0.109352 seconds
+  Import took 0.115526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.074300 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Concrete_x1_02.prefab
+  artifactKey: Guid(73903ee6163682f4bb561c7b19894ac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Concrete_x1_02.prefab using Guid(73903ee6163682f4bb561c7b19894ac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b375e74709a2b6efb5467ce70e442754') in 0.046985 seconds
+  Import took 0.053167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.147838 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Concrete_x2_01.prefab
+  artifactKey: Guid(ec2a27f3d025009419d833762d3255c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Concrete_x2_01.prefab using Guid(ec2a27f3d025009419d833762d3255c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '948d9ff3e1e05c4912558c4801c78d63') in 0.141157 seconds
+  Import took 0.146853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050841 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Concrete_x2_02.prefab
+  artifactKey: Guid(344cc7583e3bff840bfa8ab0ee79aff9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Concrete_x2_02.prefab using Guid(344cc7583e3bff840bfa8ab0ee79aff9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1e464e04c9b2154ecb93122f3141312') in 0.045390 seconds
+  Import took 0.050879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.428069 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Container_Door_01.prefab
+  artifactKey: Guid(a8f5d14c08824204c97edaa7cf1ef854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Container_Door_01.prefab using Guid(a8f5d14c08824204c97edaa7cf1ef854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9039532b66128625be095ffeb1a4e36') in 0.094932 seconds
+  Import took 0.100510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Container_x1_01.prefab
+  artifactKey: Guid(cc3900868c8fb4a448060c775d8c632a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Container_x1_01.prefab using Guid(cc3900868c8fb4a448060c775d8c632a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '232273a620c5d43922048ecd7c2548f2') in 0.097130 seconds
+  Import took 0.103013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Container_x1_02.prefab
+  artifactKey: Guid(d9dc1e244230d1e4796d432c50cde755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Container_x1_02.prefab using Guid(d9dc1e244230d1e4796d432c50cde755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddf20cd0b43def9861ed65d80f9f983d') in 0.052145 seconds
+  Import took 0.058224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Container_x2_01.prefab
+  artifactKey: Guid(5d4dcf619c53d8a4ca1c72c4dfe7cc34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Container_x2_01.prefab using Guid(5d4dcf619c53d8a4ca1c72c4dfe7cc34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31309f545006942c0b76157993226012') in 0.044459 seconds
+  Import took 0.050604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.123684 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Container_x2_02.prefab
+  artifactKey: Guid(b88fb61f5826e62418486e36db0e4f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Container_x2_02.prefab using Guid(b88fb61f5826e62418486e36db0e4f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b84cc28de8f4caf89c30cedb87f5d122') in 0.048360 seconds
+  Import took 0.053801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.160006 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Curved_Concrete_01.prefab
+  artifactKey: Guid(da9bc7b61c1564e47a6be9660adddee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Curved_Concrete_01.prefab using Guid(da9bc7b61c1564e47a6be9660adddee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ee19cc255d39b9f2f04adbfe20e9720') in 0.064425 seconds
+  Import took 0.070068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.419603 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Curved_Corrugated_01.prefab
+  artifactKey: Guid(3acbaa4ef1e977d4b90f4db11f815b0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Curved_Corrugated_01.prefab using Guid(3acbaa4ef1e977d4b90f4db11f815b0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68d49beea61ee2fa6f1dc4fd4efccac1') in 0.047643 seconds
+  Import took 0.053694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Curved_End_Concrete_01.prefab
+  artifactKey: Guid(7ed563e5242414b4cae2489c07d08277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Curved_End_Concrete_01.prefab using Guid(7ed563e5242414b4cae2489c07d08277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4094ee5ca311cbafe160013f01859be2') in 0.043987 seconds
+  Import took 0.051971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Curved_End_Concrete_Door_x2_01.prefab
+  artifactKey: Guid(a1ccebf89cc809b4b9ed7df77a72aa1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Curved_End_Concrete_Door_x2_01.prefab using Guid(a1ccebf89cc809b4b9ed7df77a72aa1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a16b7bdd585d3cb72c90e00e875f646') in 0.046583 seconds
+  Import took 0.053851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Curved_End_Concrete_x2_01.prefab
+  artifactKey: Guid(034a4bc594b877046a480e9b6bcc46e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Curved_End_Concrete_x2_01.prefab using Guid(034a4bc594b877046a480e9b6bcc46e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8d114d6375bbf948391723f74713e19') in 0.043994 seconds
+  Import took 0.050214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Curved_End_Metal_Door_x2_01.prefab
+  artifactKey: Guid(732721ed456326d46896291dc09db101) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Curved_End_Metal_Door_x2_01.prefab using Guid(732721ed456326d46896291dc09db101) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f7c339f87cf95a0af4eb3418c723241') in 0.047338 seconds
+  Import took 0.053195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.288004 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Curved_End_Metal_x2_01.prefab
+  artifactKey: Guid(77d3ac87067f57041941d8ada1b75ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Curved_End_Metal_x2_01.prefab using Guid(77d3ac87067f57041941d8ada1b75ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8cdfb5682857bfd6952d7719ebdd2b4') in 0.047429 seconds
+  Import took 0.053851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.413775 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Metal_Door_x1_01.prefab
+  artifactKey: Guid(b7c3b2dd2f122ef43a908e19b40a7875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Metal_Door_x1_01.prefab using Guid(b7c3b2dd2f122ef43a908e19b40a7875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1600411233dd53f3fafbea75031e9c0') in 0.045291 seconds
+  Import took 0.051976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Metal_Door_x2_01.prefab
+  artifactKey: Guid(2020c42effb3bff4a98f3cda26076b3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Metal_Door_x2_01.prefab using Guid(2020c42effb3bff4a98f3cda26076b3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '265916a3dcf176e4afb4e46514603fc2') in 0.044474 seconds
+  Import took 0.051343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Slab_x1_01.prefab
+  artifactKey: Guid(78c3f73ed790607479ab45a5f5f0d4e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Slab_x1_01.prefab using Guid(78c3f73ed790607479ab45a5f5f0d4e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4971aab5e11d7a82b85bb04e2c16659') in 0.046137 seconds
+  Import took 0.053063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Slab_x1_02.prefab
+  artifactKey: Guid(633a1ece618a55a4f9a3782705e15f2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Slab_x1_02.prefab using Guid(633a1ece618a55a4f9a3782705e15f2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef00e4c03687f549c01960c71374b2ef') in 0.046972 seconds
+  Import took 0.054656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Slab_x1_04.prefab
+  artifactKey: Guid(6a10ba6d1354d9349a70f88e65e0c6a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Slab_x1_04.prefab using Guid(6a10ba6d1354d9349a70f88e65e0c6a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c3808b407897e1d13e4cf38967fa90a') in 0.042779 seconds
+  Import took 0.048772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Slab_x2_01.prefab
+  artifactKey: Guid(64fac78d375aa1a48a6d9a8221a30e54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Slab_x2_01.prefab using Guid(64fac78d375aa1a48a6d9a8221a30e54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c31f1532f8c09d1eb7eff88e2f60ea6') in 0.044796 seconds
+  Import took 0.051171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.141469 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Slab_x2_02.prefab
+  artifactKey: Guid(289cb3b982d624b4ca65512b29f56138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wall_Slab_x2_02.prefab using Guid(289cb3b982d624b4ca65512b29f56138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db0c4e1093118fc71e0b764d2e651d4d') in 0.046877 seconds
+  Import took 0.052424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.424225 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wood_Floor_Raised_01.prefab
+  artifactKey: Guid(bfc0e6b7d5dfd174892d441832237d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wood_Floor_Raised_01.prefab using Guid(bfc0e6b7d5dfd174892d441832237d3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '978c48128478566d4ebdb24f219fba16') in 0.045467 seconds
+  Import took 0.052577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wood_Floor_Raised_x2_01.prefab
+  artifactKey: Guid(4017358964b48a044b80bbb8d5cf6232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Bunker_Wood_Floor_Raised_x2_01.prefab using Guid(4017358964b48a044b80bbb8d5cf6232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '731d0fd03bde598fb30d3020a0b8219a') in 0.046334 seconds
+  Import took 0.053919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Cafe_01.prefab
+  artifactKey: Guid(bcc77a6d6d314ed4d94791773d4a3abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Cafe_01.prefab using Guid(bcc77a6d6d314ed4d94791773d4a3abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9080f225508b355789d4ac485212e05b') in 0.053549 seconds
+  Import took 0.062077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Church_01.prefab
+  artifactKey: Guid(77ed7643232f89a46ae0392e423b47ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Church_01.prefab using Guid(77ed7643232f89a46ae0392e423b47ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e5854925f8505f5c4d9fa589cc79e03') in 0.045608 seconds
+  Import took 0.053217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Commercial_Large_01.prefab
+  artifactKey: Guid(d5ccfc9c8d2f52848b43a7d00834a680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Commercial_Large_01.prefab using Guid(d5ccfc9c8d2f52848b43a7d00834a680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c28b7b44cee492bd21941c2427a13f5a') in 0.048148 seconds
+  Import took 0.054447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Commercial_Medium_01.prefab
+  artifactKey: Guid(5aed343e83179d249af6934614d6f0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Commercial_Medium_01.prefab using Guid(5aed343e83179d249af6934614d6f0ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6abeb1b701de9eb52174114f839bdfd1') in 0.045471 seconds
+  Import took 0.051808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_ContainerBridge_01.prefab
+  artifactKey: Guid(f3e7bf9260fa7fe409686a43a335d6d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_ContainerBridge_01.prefab using Guid(f3e7bf9260fa7fe409686a43a335d6d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec88debe8d5d5d5deca4011d5a70ef16') in 0.048827 seconds
+  Import took 0.055934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Cooling_Tower_01.prefab
+  artifactKey: Guid(e2d219ddc38c65a41a2fc6b5b2334552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Cooling_Tower_01.prefab using Guid(e2d219ddc38c65a41a2fc6b5b2334552) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afbcf9a36c722ffd3ebd85fea5c25659') in 0.044258 seconds
+  Import took 0.050978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Cooling_Tower_02.prefab
+  artifactKey: Guid(7afe8d071e957064f9814aeed1171399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Cooling_Tower_02.prefab using Guid(7afe8d071e957064f9814aeed1171399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c777a12daf155c5fdb6aa641e7256922') in 0.045816 seconds
+  Import took 0.052238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Crane_01.prefab
+  artifactKey: Guid(01e90d0e11799ac40891f62d8228e27d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Crane_01.prefab using Guid(01e90d0e11799ac40891f62d8228e27d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eb0ad8a5766cd2e03d78919c2c42229') in 0.049847 seconds
+  Import took 0.056265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Decoration_01.prefab
+  artifactKey: Guid(0b4692b6f40657f46beeb8f332178526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Decoration_01.prefab using Guid(0b4692b6f40657f46beeb8f332178526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a7063c5e7ec2c0fa9e4d3115c5be023') in 0.053000 seconds
+  Import took 0.059438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Decoration_03.prefab
+  artifactKey: Guid(a5af8bb6dfe948c40ac8d01c2cc5dd02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Decoration_03.prefab using Guid(a5af8bb6dfe948c40ac8d01c2cc5dd02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b46cee070187696f8bf276408184e7c9') in 0.045878 seconds
+  Import took 0.051371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Diner_01.prefab
+  artifactKey: Guid(e58d5baf19c3ddc4ea422dbf0096102c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Diner_01.prefab using Guid(e58d5baf19c3ddc4ea422dbf0096102c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b01a94cb55b43d421f8c1c064e7296e0') in 0.052258 seconds
+  Import took 0.057599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Decoration_02.prefab
+  artifactKey: Guid(745c51df13da99c4fbbb86ec6a53fb72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Decoration_02.prefab using Guid(745c51df13da99c4fbbb86ec6a53fb72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1aed47cb5b56bf8c7470c43210a3b91') in 0.043226 seconds
+  Import took 0.049410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.881056 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Commercial_Small_01.prefab
+  artifactKey: Guid(cdc1a057ab9e2284ca9b28f28a9a5b5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Commercial_Small_01.prefab using Guid(cdc1a057ab9e2284ca9b28f28a9a5b5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '429cdbbfc83a27044788f73b634d2117') in 0.047624 seconds
+  Import took 0.053299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.953305 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Diner_Booth_Seat_01.prefab
+  artifactKey: Guid(2e94c7eadb9b9874ea4fb75e1722db9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Diner_Booth_Seat_01.prefab using Guid(2e94c7eadb9b9874ea4fb75e1722db9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f22d0c72ebd6613cdd1879a46254e52') in 0.046679 seconds
+  Import took 0.052312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.108097 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Diner_Booth_Seat_02.prefab
+  artifactKey: Guid(c1b54ba7ac627a844a95c658d9dc3ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Diner_Booth_Seat_02.prefab using Guid(c1b54ba7ac627a844a95c658d9dc3ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9103a3d5aec6de5a89126efc68c57d1a') in 0.046290 seconds
+  Import took 0.052948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.139269 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Diner_Door_01.prefab
+  artifactKey: Guid(ead2ac29172a00d4b87cd854b1872b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Diner_Door_01.prefab using Guid(ead2ac29172a00d4b87cd854b1872b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9425f4b436e1ad718ac5b75e154b003e') in 0.046764 seconds
+  Import took 0.052440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.139032 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Diner_Door_02.prefab
+  artifactKey: Guid(458aaade6852aab48a4d246ac3c29d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Diner_Door_02.prefab using Guid(458aaade6852aab48a4d246ac3c29d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de7f93969ecbf4fcf0b13c66cdd02704') in 0.046312 seconds
+  Import took 0.052962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.128135 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Diner_Sign.prefab
+  artifactKey: Guid(047c1b3886838ba4ba0f317e5d68e702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Diner_Sign.prefab using Guid(047c1b3886838ba4ba0f317e5d68e702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe764c384087f116bdcefd4b601b127b') in 0.049771 seconds
+  Import took 0.055592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.174327 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Diner_Stool_01.prefab
+  artifactKey: Guid(e74d279c451a71745a0222de9fbc054e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Diner_Stool_01.prefab using Guid(e74d279c451a71745a0222de9fbc054e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18befa48a3b12a3905f4253b47586512') in 0.048553 seconds
+  Import took 0.054394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.842072 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_HighRise_Medium_01_Stack_01.prefab
+  artifactKey: Guid(8b421eddb2c2e034082ac8a667e31ed0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_HighRise_Medium_01_Stack_01.prefab using Guid(8b421eddb2c2e034082ac8a667e31ed0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1caf00990955128c51fed33bc48dbca6') in 0.073415 seconds
+  Import took 0.079369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.358330 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_House_01.prefab
+  artifactKey: Guid(cacdce86a66c20b46b7a922e1c118390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_House_01.prefab using Guid(cacdce86a66c20b46b7a922e1c118390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11c1f86e7caa6777a274bdeb541393f3') in 0.047389 seconds
+  Import took 0.052936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.652092 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Junk_Shelter_01.prefab
+  artifactKey: Guid(c808dd7672f316d4b95e2d0f05d6da22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Junk_Shelter_01.prefab using Guid(c808dd7672f316d4b95e2d0f05d6da22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa73255db07f703b44fd568c554b86b7') in 0.044457 seconds
+  Import took 0.050937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.622978 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Junk_Shelter_03.prefab
+  artifactKey: Guid(5ecf398b4c66e474a97e3489a326bc37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Junk_Shelter_03.prefab using Guid(5ecf398b4c66e474a97e3489a326bc37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '181ca2ecdfc1bf24be49158b6096eb3b') in 0.046461 seconds
+  Import took 0.052323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.378240 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Pool_01.prefab
+  artifactKey: Guid(f9ef513c6f7896c42898f272f9b7e6ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Pool_01.prefab using Guid(f9ef513c6f7896c42898f272f9b7e6ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf5b3e2fcfe987f2c42b69d9a5395197') in 0.096300 seconds
+  Import took 0.102105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.251695 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Motel_Sign_03.prefab
+  artifactKey: Guid(5953ae96f8a62ff4e96eb426592cf14b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Motel_Sign_03.prefab using Guid(5953ae96f8a62ff4e96eb426592cf14b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7220a928faa78d787a1219b2126b26d') in 0.091940 seconds
+  Import took 0.097375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.341233 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Motel_Sign_01.prefab
+  artifactKey: Guid(09d7a98c1fa05e64db5fa5b9da44641c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Motel_Sign_01.prefab using Guid(09d7a98c1fa05e64db5fa5b9da44641c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ecd3a92805e7754edb4dc07ab1cc142') in 0.111198 seconds
+  Import took 0.117576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.843448 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Military_Tent_Preset_01.prefab
+  artifactKey: Guid(2f3e4ec38045a08469337b882b1284a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Military_Tent_Preset_01.prefab using Guid(2f3e4ec38045a08469337b882b1284a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd255a591f0c0fa614f3dc603db9efa39') in 0.097098 seconds
+  Import took 0.102830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.325958 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Military_Tent_Damaged_03.prefab
+  artifactKey: Guid(0f5dbd1552d22d640bd6648df6b9c04a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Military_Tent_Damaged_03.prefab using Guid(0f5dbd1552d22d640bd6648df6b9c04a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '620ea2ab4bcf8311b80e77622542f816') in 0.092911 seconds
+  Import took 0.098604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.336246 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Sunshade_Round_02.prefab
+  artifactKey: Guid(133e08d0d3bfe794ab059ebc70e993a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Sunshade_Round_02.prefab using Guid(133e08d0d3bfe794ab059ebc70e993a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '975edca202998f4c56b22f45bc22f552') in 0.066076 seconds
+  Import took 0.072086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.286517 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Tarp_Generic_01.prefab
+  artifactKey: Guid(685e55113aea5794e9ba1f3666ec9174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Tarp_Generic_01.prefab using Guid(685e55113aea5794e9ba1f3666ec9174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60065b28b8ca3df4c436a9dded65f113') in 0.048138 seconds
+  Import took 0.053502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.467458 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Tarp_Generic_02.prefab
+  artifactKey: Guid(327bcfec5f2ae5f40ade5378f1591d87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Tarp_Generic_02.prefab using Guid(327bcfec5f2ae5f40ade5378f1591d87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd05ccbc1b0c29f1f4f95c03042a6c38a') in 0.047378 seconds
+  Import took 0.053328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.313542 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Tarp_Generic_03.prefab
+  artifactKey: Guid(b46c5b16d86744c46b6f941505a769ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Tarp_Generic_03.prefab using Guid(b46c5b16d86744c46b6f941505a769ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '970914704a2f0bccf207b2cf1c553b32') in 0.047607 seconds
+  Import took 0.053498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.165203 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_WaterTower_01.prefab
+  artifactKey: Guid(49abcdc2b5ce9724687d5dd4009ae638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_WaterTower_01.prefab using Guid(49abcdc2b5ce9724687d5dd4009ae638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '480da4511e80dafcb2ec38ab90896c74') in 0.049986 seconds
+  Import took 0.056132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.335423 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Warehouse_Brick_01.prefab
+  artifactKey: Guid(e461a86137d991d4e9a1a3b637ebe9e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Warehouse_Brick_01.prefab using Guid(e461a86137d991d4e9a1a3b637ebe9e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf4b6fca2aca8a6e9855c5bdcfa59980') in 0.047752 seconds
+  Import took 0.053410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.360254 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Warehouse_Concrete_01.prefab
+  artifactKey: Guid(ad72ec42eb3032541b966f9e09be569a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Buildings/SM_Bld_Warehouse_Concrete_01.prefab using Guid(ad72ec42eb3032541b966f9e09be569a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e377b50a646981c6efe6e4453b2409d') in 0.047938 seconds
+  Import took 0.054515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 136.298830 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Buildings/SM_Bld_Warehouse_01.prefab
+  artifactKey: Guid(4792c06511517bd459dd4bdc1aa5f0f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Buildings/SM_Bld_Warehouse_01.prefab using Guid(4792c06511517bd459dd4bdc1aa5f0f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d0069bf9e42cb0d992e1829492f02ab') in 0.038079 seconds
+  Import took 0.044289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002982 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Buildings/SM_Bld_Warehouse_01.prefab
+  artifactKey: Guid(4792c06511517bd459dd4bdc1aa5f0f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Buildings/SM_Bld_Warehouse_01.prefab using Guid(4792c06511517bd459dd4bdc1aa5f0f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d0069bf9e42cb0d992e1829492f02ab') in 0.036413 seconds
+  Import took 0.041448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.128572 seconds.
+  path: Assets/Resources/MarketAssets/PolygonBattleRoyale/Models/SM_Bld_Warehouse_01.fbx
+  artifactKey: Guid(4be346e3f7710eb43a6c627c8d07903f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonBattleRoyale/Models/SM_Bld_Warehouse_01.fbx using Guid(4be346e3f7710eb43a6c627c8d07903f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44da52c8ffe3c7711e5788988fe6323f') in 0.131460 seconds
+  Import took 0.134503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.818058 seconds.
+  path: Assets/Resources/MarketAssets/PolygonBattleRoyale/Prefabs/Buildings/SM_Bld_Warehouse_01.prefab
+  artifactKey: Guid(f4bb022ab0d2a5c46b6af300deb95be5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonBattleRoyale/Prefabs/Buildings/SM_Bld_Warehouse_01.prefab using Guid(f4bb022ab0d2a5c46b6af300deb95be5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94df0bc066835d02829bff26c141196f') in 0.023565 seconds
+  Import took 0.027506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.718260 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Models/SM_Bld_Warehouse_01.fbx
+  artifactKey: Guid(8b4bb575fa7c7514e8ce244267cefe40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Models/SM_Bld_Warehouse_01.fbx using Guid(8b4bb575fa7c7514e8ce244267cefe40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55e93c6e10647514a97e41322193c07e') in 0.070463 seconds
+  Import took 0.073917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1057.408036 seconds.
+  path: Assets/Resources/MarketAssets/PolygonFantasyKingdom/Prefabs/Environments/SM_Env_Ground_Crater_01.prefab
+  artifactKey: Guid(3bbe87fa58bce5f45b8bab9eb7e029ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonFantasyKingdom/Prefabs/Environments/SM_Env_Ground_Crater_01.prefab using Guid(3bbe87fa58bce5f45b8bab9eb7e029ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e1a4efa7f74e69bfe4d5630fb427f5a') in 0.007934 seconds
+  Import took 0.012110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.296492 seconds.
+  path: Assets/Resources/MarketAssets/PolygonFantasyKingdom/Prefabs/Environments/SM_Env_Ground_Crater_03.prefab
+  artifactKey: Guid(259f297162418b94c8e4b0d018262bc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonFantasyKingdom/Prefabs/Environments/SM_Env_Ground_Crater_03.prefab using Guid(259f297162418b94c8e4b0d018262bc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a0b30f0eee15d4cddc5e000cc1a4713') in 0.007006 seconds
+  Import took 0.010003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.821383 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Item/SM_Item_Ammo_Crate_01.prefab
+  artifactKey: Guid(2fb12b997a3549a49a41cb4258122166) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Item/SM_Item_Ammo_Crate_01.prefab using Guid(2fb12b997a3549a49a41cb4258122166) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '484a1f511fc2f30adf0d77e4011fdfc0') in 0.098049 seconds
+  Import took 0.103692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.133343 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Models/SM_Item_Ammo_Crate_01.fbx
+  artifactKey: Guid(0bd6732adc086934982f17e3cd3924de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Models/SM_Item_Ammo_Crate_01.fbx using Guid(0bd6732adc086934982f17e3cd3924de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '428adb551ffaf21c800bc5bd26ae8318') in 0.020308 seconds
+  Import took 0.024180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.460404 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Item/SM_Item_Ammo_Crate_02.prefab
+  artifactKey: Guid(6a58f1a9d5bb54145b16f5b9fc45b380) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Item/SM_Item_Ammo_Crate_02.prefab using Guid(6a58f1a9d5bb54145b16f5b9fc45b380) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bba41ceb7ba3ca7fe5456b641e70d3d') in 0.047009 seconds
+  Import took 0.054400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.150284 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Models/SM_Item_Ammo_Crate_02.fbx
+  artifactKey: Guid(890dc067bcb908148a2c10ff683c7126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Models/SM_Item_Ammo_Crate_02.fbx using Guid(890dc067bcb908148a2c10ff683c7126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28a1702c69b9ca227b8021096ebcf6d6') in 0.019720 seconds
+  Import took 0.023264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002857 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Models/SM_Item_Ammo_Crate_02.fbx
+  artifactKey: Guid(890dc067bcb908148a2c10ff683c7126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Models/SM_Item_Ammo_Crate_02.fbx using Guid(890dc067bcb908148a2c10ff683c7126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28a1702c69b9ca227b8021096ebcf6d6') in 0.043666 seconds
+  Import took 0.047034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.587304 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Models/SM_Item_Ammo_Crate_03.fbx
+  artifactKey: Guid(885e68b3138ccd34bb11355bd13b5883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Models/SM_Item_Ammo_Crate_03.fbx using Guid(885e68b3138ccd34bb11355bd13b5883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b5af9223046a1238b029a84e97aca45') in 0.058340 seconds
+  Import took 0.061594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.344225 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Item/SM_Item_Ammo_Crate_03.prefab
+  artifactKey: Guid(3e929c997b3a59442a790eecab3edd7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Item/SM_Item_Ammo_Crate_03.prefab using Guid(3e929c997b3a59442a790eecab3edd7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79e2e4c0fce56c84b9e53669d7fe3b9f') in 0.047367 seconds
+  Import took 0.053539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.201345 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Models/SM_Item_Ammo_Crate_04.fbx
+  artifactKey: Guid(f858a2f9b276cf544b74b7cd24efd3be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Models/SM_Item_Ammo_Crate_04.fbx using Guid(f858a2f9b276cf544b74b7cd24efd3be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '289e2ebc208497d76f8094aa6aec492d') in 0.067642 seconds
+  Import took 0.071240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.353606 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Item/SM_Item_Ammo_Crate_04.prefab
+  artifactKey: Guid(8778a742b666cae4b8af6820f6de6aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Item/SM_Item_Ammo_Crate_04.prefab using Guid(8778a742b666cae4b8af6820f6de6aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91ce21bb6dca75cfff963721661bd647') in 0.193313 seconds
+  Import took 0.199280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.677460 seconds.
+  path: Assets/Resources/MarketAssets/PolygonFantasyKingdom/Prefabs/Items/SM_Item_Crate_01.prefab
+  artifactKey: Guid(8db1a90d57dda0044a8455a1b7dd5979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonFantasyKingdom/Prefabs/Items/SM_Item_Crate_01.prefab using Guid(8db1a90d57dda0044a8455a1b7dd5979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b55f81b53683cb2d43b7b3cea13c4bd2') in 0.007668 seconds
+  Import took 0.011480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.940396 seconds.
+  path: Assets/Resources/MarketAssets/PolygonFantasyKingdom/Prefabs/Props/SM_Prop_Bread_Crate_01.prefab
+  artifactKey: Guid(2b8e140e9e5b6cc4c88a0feafe1ca503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonFantasyKingdom/Prefabs/Props/SM_Prop_Bread_Crate_01.prefab using Guid(2b8e140e9e5b6cc4c88a0feafe1ca503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a12ed6493ffc3b923c34bd0db942c78') in 0.007110 seconds
+  Import took 0.010219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.270734 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Props/SM_Prop_Crate_02.prefab
+  artifactKey: Guid(71cd22b8bb52e62449fd0023abb58750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Props/SM_Prop_Crate_02.prefab using Guid(71cd22b8bb52e62449fd0023abb58750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48e23b88b8e30c72a68291bcabfd09d7') in 0.244956 seconds
+  Import took 0.249769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.742415 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Props/SM_Prop_Crate_02.prefab
+  artifactKey: Guid(75d59c357ca527345bd1e4cfcbcd8c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Props/SM_Prop_Crate_02.prefab using Guid(75d59c357ca527345bd1e4cfcbcd8c3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bd7480f31ce2f68078329c1e29e9d44') in 0.197608 seconds
+  Import took 0.203209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.848101 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Props/SM_Prop_Crate_03.prefab
+  artifactKey: Guid(19791b5830f82344187d841faf6ac223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Props/SM_Prop_Crate_03.prefab using Guid(19791b5830f82344187d841faf6ac223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '460001c089e529732329afc2fb6ed2c4') in 0.223160 seconds
+  Import took 0.229040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.013184 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Props/SM_Prop_Crate_03.prefab
+  artifactKey: Guid(abc342a947c02fe42b97460526b073e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Props/SM_Prop_Crate_03.prefab using Guid(abc342a947c02fe42b97460526b073e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbfb8ae36a1c6584721c7c62b55cdad3') in 0.201660 seconds
+  Import took 0.206196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.796065 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Props/SM_Prop_Crate_04.prefab
+  artifactKey: Guid(3b6822620dff24e4f9c2c71a04fd47e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Props/SM_Prop_Crate_04.prefab using Guid(3b6822620dff24e4f9c2c71a04fd47e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9655ed4c5360b028f979b4a7f0c6f8ea') in 0.220186 seconds
+  Import took 0.225704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.825633 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Props/SM_Prop_Crate_04.prefab
+  artifactKey: Guid(fd25ebede4341334fabe289baa78d784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Props/SM_Prop_Crate_04.prefab using Guid(fd25ebede4341334fabe289baa78d784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e9ce87d363eae5820971c87d1acc02b') in 0.180846 seconds
+  Import took 0.186809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.759953 seconds.
+  path: Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Props/SM_Prop_Crate_Large_01.prefab
+  artifactKey: Guid(36ca5a606dea1eb4093d9afc773ea943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonSciFiCity/Prefabs/Props/SM_Prop_Crate_Large_01.prefab using Guid(36ca5a606dea1eb4093d9afc773ea943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8c6e94a2f00a2a6641992c456f7ae74') in 0.252191 seconds
+  Import took 0.257563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.528493 seconds.
+  path: Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Props/SM_Prop_Crate_Large_01.prefab
+  artifactKey: Guid(5396a093575259c498a56449c2d6a0cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonApocalypse/Prefabs/Props/SM_Prop_Crate_Large_01.prefab using Guid(5396a093575259c498a56449c2d6a0cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4f5fc424237241447ba4e59e8fb2e2d') in 0.167160 seconds
+  Import took 0.175235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.092804 seconds.
+  path: Assets/Resources/MarketAssets/PolygonBattleRoyale/Prefabs/Props/SM_Prop_Crate_Large_01.prefab
+  artifactKey: Guid(7d261aef3b84ccb4b91a005a110cdafe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/MarketAssets/PolygonBattleRoyale/Prefabs/Props/SM_Prop_Crate_Large_01.prefab using Guid(7d261aef3b84ccb4b91a005a110cdafe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf5609c8e0e5e89933295c7cbe605cbc') in 0.021434 seconds
+  Import took 0.025438 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
